@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\bin\Debug\_25.HTMLTextExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\bin\Debug\_25.HTMLTextExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\obj\Debug\_25.HTMLTextExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\obj\Debug\_25.HTMLTextExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\bin\Debug\_25.HTMLTextExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\bin\Debug\_25.HTMLTextExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\obj\Debug\_25.HTMLTextExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\25. HTMLTextExtractor\obj\Debug\_25.HTMLTextExtractor.pdb

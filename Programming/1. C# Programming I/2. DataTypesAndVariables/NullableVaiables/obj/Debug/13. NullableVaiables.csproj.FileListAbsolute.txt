@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\NullableVaiables\bin\Debug\NullableVaiables.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\NullableVaiables\bin\Debug\NullableVaiables.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\NullableVaiables\bin\Debug\NullableVaiables.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\NullableVaiables\obj\Debug\NullableVaiables.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\NullableVaiables\obj\Debug\NullableVaiables.pdb

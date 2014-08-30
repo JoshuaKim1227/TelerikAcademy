@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. Mines\bin\Debug\_3.Mines.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. Mines\bin\Debug\_3.Mines.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. Mines\obj\Debug\_3.Mines.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. Mines\obj\Debug\_3.Mines.pdb

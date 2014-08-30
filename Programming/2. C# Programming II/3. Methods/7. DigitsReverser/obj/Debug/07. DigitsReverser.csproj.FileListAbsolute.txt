@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.pdb

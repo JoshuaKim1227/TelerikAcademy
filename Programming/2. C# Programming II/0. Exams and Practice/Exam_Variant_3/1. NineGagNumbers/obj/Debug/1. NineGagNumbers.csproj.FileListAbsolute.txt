@@ -1,0 +1,14 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\1. NineGagNumbers\bin\Debug\_1.NineGagNumbers.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\1. NineGagNumbers\bin\Debug\_1.NineGagNumbers.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\1. NineGagNumbers\obj\Debug\1. NineGagNumbers.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.exe
+D:\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\obj\Debug\_1.NineGagNumbers.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\bin\Debug\_1.NineGagNumbers.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\bin\Debug\_1.NineGagNumbers.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_Variant_3\1. NineGagNumbers\obj\Debug\1. NineGagNumbers.csprojResolveAssemblyReference.cache

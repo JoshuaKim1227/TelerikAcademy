@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\1. SubstringExtension\obj\Debug\1. SubstringExtension.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\1. SubstringExtension\bin\Debug\_1.SubstringExtension.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\1. SubstringExtension\bin\Debug\_1.SubstringExtension.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\1. SubstringExtension\obj\Debug\_1.SubstringExtension.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\1. SubstringExtension\obj\Debug\_1.SubstringExtension.pdb

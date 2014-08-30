@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\bin\Debug\_3.MinAndMaxOfSequence.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\bin\Debug\_3.MinAndMaxOfSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\bin\Debug\_3.MinAndMaxOfSequence.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\obj\Debug\3. MinAndMaxOfSequence.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\obj\Debug\_3.MinAndMaxOfSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\3. MinAndMaxOfSequence\obj\Debug\_3.MinAndMaxOfSequence.pdb

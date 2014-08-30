@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\9. DefensiveProgramming\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\9. DefensiveProgramming\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\9. DefensiveProgramming\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\9. DefensiveProgramming\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\1. CoffeeMachine\bin\Debug\_1.CoffeeMachine.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\1. CoffeeMachine\bin\Debug\_1.CoffeeMachine.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\1. CoffeeMachine\obj\Debug\1. CoffeeMachine.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\1. CoffeeMachine\obj\Debug\_1.CoffeeMachine.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\1. CoffeeMachine\obj\Debug\_1.CoffeeMachine.pdb

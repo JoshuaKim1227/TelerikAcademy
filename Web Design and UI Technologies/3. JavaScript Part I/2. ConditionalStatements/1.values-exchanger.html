@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-firstNum">First Number: </label>
+	<input type="text" id="tb-firstNum" />
+	<label for="tb-secondNum">Second Number: </label>
+	<input type="text" id="tb-secondNum" />
+	<br />
+	<a href="#" onclick="onEvenOddButtonClick()">Even or Odd</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onEvenOddButtonClick() {
+            var firstNum = jsConsole.readFloat("#tb-firstNum");
+            var secondNum = jsConsole.readFloat("#tb-secondNum");
+            var tempHolder;
+
+            if (firstNum > secondNum) {
+                tempHolder = firstNum;
+                firstNum = secondNum;
+                secondNum = tempHolder;
+
+                jsConsole.writeLine("Values exchanges!");
+                jsConsole.writeLine("First number is: " + firstNum);
+                jsConsole.writeLine("Second number is: " + secondNum);
+            }
+            else {
+                jsConsole.writeLine("Values not exchanges!");
+                jsConsole.writeLine("First number is: " + firstNum);
+                jsConsole.writeLine("Second number is: " + secondNum);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\bin\Debug\_6.CalculateSumFromString.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\bin\Debug\_6.CalculateSumFromString.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\obj\Debug\_6.CalculateSumFromString.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\obj\Debug\_6.CalculateSumFromString.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\obj\Debug\_6.CalculateSumFromString.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\obj\Debug\_6.CalculateSumFromString.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\bin\Debug\_6.CalculateSumFromString.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\6. CalculateSumFromString\bin\Debug\_6.CalculateSumFromString.pdb

@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\1. GeometricShapes\obj\Debug\1. GeometricShapes.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\1. GeometricShapes\bin\Debug\_1.GeometricShapes.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\1. GeometricShapes\bin\Debug\_1.GeometricShapes.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\1. GeometricShapes\obj\Debug\_1.GeometricShapes.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\1. GeometricShapes\obj\Debug\_1.GeometricShapes.pdb

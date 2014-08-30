@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\13. WordCounter\obj\Debug\13. WordCounter.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\13. WordCounter\bin\Debug\_13.WordCounter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\13. WordCounter\bin\Debug\_13.WordCounter.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\13. WordCounter\obj\Debug\_13.WordCounter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\13. WordCounter\obj\Debug\_13.WordCounter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\13. WordCounter\obj\Debug\_13.WordCounter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\13. WordCounter\obj\Debug\_13.WordCounter.pdb

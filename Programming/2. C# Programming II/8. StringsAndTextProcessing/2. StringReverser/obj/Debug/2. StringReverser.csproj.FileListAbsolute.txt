@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\bin\Debug\_2.StringReverser.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\bin\Debug\_2.StringReverser.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\obj\Debug\2. StringReverser.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\obj\Debug\_2.StringReverser.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\obj\Debug\_2.StringReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\obj\Debug\_2.StringReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\2. StringReverser\obj\Debug\_2.StringReverser.pdb

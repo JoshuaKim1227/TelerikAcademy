@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\4. CompareFileLineByLine\bin\Debug\_4.CompareFileLineByLine.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\4. CompareFileLineByLine\bin\Debug\_4.CompareFileLineByLine.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\4. CompareFileLineByLine\obj\Debug\_4.CompareFileLineByLine.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\4. CompareFileLineByLine\obj\Debug\_4.CompareFileLineByLine.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\4. CompareFileLineByLine\obj\Debug\_4.CompareFileLineByLine.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\4. CompareFileLineByLine\obj\Debug\_4.CompareFileLineByLine.pdb

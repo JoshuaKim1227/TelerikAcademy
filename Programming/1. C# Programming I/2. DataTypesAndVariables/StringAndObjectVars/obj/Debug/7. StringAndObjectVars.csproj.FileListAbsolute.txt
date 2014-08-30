@@ -1,0 +1,3 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\StringAndObjectVars\bin\Debug\StringAndObjectVars.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\StringAndObjectVars\obj\Debug\StringAndObjectVars.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\StringAndObjectVars\obj\Debug\StringAndObjectVars.pdb

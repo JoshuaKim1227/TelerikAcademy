@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\4. DownloadFileFromNet\bin\Debug\_4.DownloadFileFromNet.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\4. DownloadFileFromNet\bin\Debug\_4.DownloadFileFromNet.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\4. DownloadFileFromNet\obj\Debug\_4.DownloadFileFromNet.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\4. DownloadFileFromNet\obj\Debug\_4.DownloadFileFromNet.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\4. DownloadFileFromNet\obj\Debug\_4.DownloadFileFromNet.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\4. DownloadFileFromNet\obj\Debug\_4.DownloadFileFromNet.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\4. DownloadFileFromNet\bin\Debug\_4.DownloadFileFromNet.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\4. DownloadFileFromNet\bin\Debug\_4.DownloadFileFromNet.pdb

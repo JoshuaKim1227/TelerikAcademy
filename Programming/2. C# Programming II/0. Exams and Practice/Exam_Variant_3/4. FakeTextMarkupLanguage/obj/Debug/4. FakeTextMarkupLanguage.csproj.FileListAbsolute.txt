@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\4. FakeTextMarkupLanguage\bin\Debug\_4.FakeTextMarkupLanguage.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\4. FakeTextMarkupLanguage\bin\Debug\_4.FakeTextMarkupLanguage.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\4. FakeTextMarkupLanguage\obj\Debug\4. FakeTextMarkupLanguage.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\4. FakeTextMarkupLanguage\obj\Debug\_4.FakeTextMarkupLanguage.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\4. FakeTextMarkupLanguage\obj\Debug\_4.FakeTextMarkupLanguage.pdb

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\bin\Debug\_2.NotDevidableBy3And7.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\bin\Debug\_2.NotDevidableBy3And7.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\bin\Debug\_2.NotDevidableBy3And7.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\obj\Debug\2. NotDevidableBy3And7.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\obj\Debug\_2.NotDevidableBy3And7.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\2. NotDevidableBy3And7\obj\Debug\_2.NotDevidableBy3And7.pdb

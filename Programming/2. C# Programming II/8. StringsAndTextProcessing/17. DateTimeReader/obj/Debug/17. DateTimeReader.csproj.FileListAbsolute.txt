@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\bin\Debug\_17.DateTimeReader.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\bin\Debug\_17.DateTimeReader.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\_17.DateTimeReader.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\_17.DateTimeReader.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\17. DateTimeReader.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\bin\Debug\_17.DateTimeReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\bin\Debug\_17.DateTimeReader.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\17. DateTimeReader.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\_17.DateTimeReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\17. DateTimeReader\obj\Debug\_17.DateTimeReader.pdb

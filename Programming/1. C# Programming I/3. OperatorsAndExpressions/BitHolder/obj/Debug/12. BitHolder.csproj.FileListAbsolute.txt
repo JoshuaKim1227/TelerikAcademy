@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\bin\Debug\BitHolder.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\bin\Debug\BitHolder.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\bin\Debug\BitHolder.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\obj\Debug\12. BitHolder.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\obj\Debug\BitHolder.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitHolder\obj\Debug\BitHolder.pdb

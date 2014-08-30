@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. TrueOrFalsePrinter", "1. TrueOrFalsePrinter\1. TrueOrFalsePrinter.csproj", "{2B8C58A5-C180-4A70-89BC-E972ECAC546E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PersonCreator", "2. PersonCreator\2. PersonCreator.csproj", "{290172E2-0562-476F-B80A-13B9D929AFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MinesweeperGame", "3. MinesweeperGame\3. MinesweeperGame.csproj", "{692FD60F-99D8-4EE6-BDB1-7D09DFB0844D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8C58A5-C180-4A70-89BC-E972ECAC546E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8C58A5-C180-4A70-89BC-E972ECAC546E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8C58A5-C180-4A70-89BC-E972ECAC546E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8C58A5-C180-4A70-89BC-E972ECAC546E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290172E2-0562-476F-B80A-13B9D929AFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290172E2-0562-476F-B80A-13B9D929AFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290172E2-0562-476F-B80A-13B9D929AFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290172E2-0562-476F-B80A-13B9D929AFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692FD60F-99D8-4EE6-BDB1-7D09DFB0844D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692FD60F-99D8-4EE6-BDB1-7D09DFB0844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692FD60F-99D8-4EE6-BDB1-7D09DFB0844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692FD60F-99D8-4EE6-BDB1-7D09DFB0844D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

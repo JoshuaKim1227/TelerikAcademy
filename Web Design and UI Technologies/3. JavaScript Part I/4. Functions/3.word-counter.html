@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">Enter some text: </label>
+	<input type="text" id="tb-text" />
+	<label for="tb-word">Enter word to search for: </label>
+	<input type="text" id="tb-word" />
+	<label for="tb-casing">Is it Case Sensitive (true or false): </label>
+	<input type="text" id="tb-casing" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var text = jsConsole.read("#tb-text");
+            var word = jsConsole.read("#tb-word");
+            var isCaseSensitiveStr = jsConsole.read("#tb-casing");
+            var isCaseSensitive;
+
+            if (isCaseSensitiveStr == "true") {
+                isCaseSensitive = true;
+            }
+            if (isCaseSensitiveStr == "false") {
+                isCaseSensitive = false;
+            }
+
+            function countWords(text, word, isCaseSensitive) {
+                function countCaseSensitive(text, word) {
+                    var text = new String(text);
+                    var wordsArray = text.split(/\s|[,.?!]/);
+
+                    var occurancesCounter = 0;
+                    var indexesOfOccurance = [];
+
+                    for (var searcher = 0; searcher < wordsArray.length; searcher++) {
+                        if (wordsArray[searcher] == word) {
+                            occurancesCounter++;
+                            indexesOfOccurance.push(searcher + 1);
+                        }
+                    }
+
+                    jsConsole.writeLine("The word " + word + " occured " + occurancesCounter + " times at places " + indexesOfOccurance);
+                }
+
+                function countCaseInsensitive(text, word) {
+                    var text = new String(text);
+                    var wordsArray = text.split(/\s|[,.?!]/);
+
+                    var occurancesCounter = 0;
+                    var indexesOfOccurance = [];
+                    
+                    for (var searcher = 0; searcher < wordsArray.length; searcher++) {
+                        if (wordsArray[searcher].toLowerCase() == word.toLowerCase()) {
+                            occurancesCounter++;
+                            indexesOfOccurance.push(searcher + 1);
+                        }
+                    }
+
+                    jsConsole.writeLine("The word " + word + " occured " + occurancesCounter + " times at places " + indexesOfOccurance);
+                }
+
+                switch (arguments.length) {
+                    case 2: return countCaseInsensitive(text, word);
+                    case 3: return isCaseSensitive ? countCaseSensitive(text, word) : countCaseInsensitive(text, word);
+                }
+            }
+
+            countWords(text, word, isCaseSensitive);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\11. DeletePrefixFromFile\bin\Debug\_11.DeletePrefixFromFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\11. DeletePrefixFromFile\bin\Debug\_11.DeletePrefixFromFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\11. DeletePrefixFromFile\obj\Debug\_11.DeletePrefixFromFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\11. DeletePrefixFromFile\obj\Debug\_11.DeletePrefixFromFile.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\11. DeletePrefixFromFile\obj\Debug\_11.DeletePrefixFromFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\11. DeletePrefixFromFile\obj\Debug\_11.DeletePrefixFromFile.pdb

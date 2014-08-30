@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Windows Calculator</title>
+    <link rel="stylesheet" type="text/css" href="Styles/4Styles.css" />
+</head>
+<body>
+    <div id="Wrapper">
+        <!-- Title Section -->    
+        <img id="CalcIcon" src="Images/MiniCalc.png" />
+        <label id="Title">Calculator</label>
+        <img id="WinButtons" src="Images/Win.png" />
+
+         <!-- Menu Section -->
+        <div id="Menu">
+            <label>View</label>
+            <label>Edit</label>
+            <label>Help</label>
+        </div>
+        
+        <!-- Main Content Section -->    
+        <div id="MainContent">
+            <!-- Display Panel -->    
+            <div id="Display">
+                <label>8854455</label>
+            </div>
+
+             <!-- Binary Digits Panel -->
+            <div id="BinaryScreen">
+                <label>0000 0000 0000 0000 0000 0000 0000 0000</label><br />
+                <label>63</label><label class="BinarySpacingLabel">47</label><label>32</label><br />
+                <label>0000 0000 1000 0111 0001 1011 1011 1011</label><br />
+                <label>31</label><label class="BinarySpacingLabel">15</label><label>&nbsp;0</label><br />
+            </div>
+
+             <!-- Middle-Left Panel -->
+            <div class="LeftSidePanels">
+                <input type="radio" id="Hex" name="NumericSystemSelector"/>
+                <label for="Hex">Hex</label><br />
+                <input type="radio" id="Dec" name="NumericSystemSelector" checked="checked" />
+                <label for="Dec">Dec</label><br />
+                <input type="radio" id="Oct" name="NumericSystemSelector" />
+                <label for="Oct">Oct</label><br />
+                <input type="radio" id="Bin" name="NumericSystemSelector" />
+                <label for="Bin">Bin</label>
+            </div>
+            <div id="ButtonsSection">
+                <!-- First button row -->
+                <input type="button" value="&nbsp;" class="Disabled" />
+                <input type="button" value="Mod" class="AritmeticsButtons" />
+                <input type="button" value="A" class="Disabled" />
+                <input type="button" value="MC" class="Muted" />
+                <input type="button" value="MR" class="Muted" />
+                <input type="button" value="MS" class="Muted" />
+                <input type="button" value="M+" class="Muted" />
+                <input type="button" value="M-" class="Muted" />
+
+                <!-- Second button row -->
+                <input type="button" value="(" class="AritmeticsButtons" />
+                <input type="button" value=")" class="AritmeticsButtons" />
+                <input type="button" value="B" class="Disabled" />
+                <input type="button" value="&larr;" id="Arrow"/>
+                <input type="button" value="CE" class="AritmeticsButtons" />
+                <input type="button" value="C" class="AritmeticsButtons" />
+                <input type="button" value="&#177;" class="AritmeticsButtons" />
+                <input type="button" value="&#8730;" class="AritmeticsButtons" />
+
+                <!-- Third button row -->
+                <input type="button" value="RoL" class="AritmeticsButtons" />
+                <input type="button" value="RoR" class="AritmeticsButtons" />
+                <input type="button" value="C" class="Disabled" />
+                <input type="button" value="7" class="Numbers" />
+                <input type="button" value="8" class="Numbers" />
+                <input type="button" value="9" class="Numbers" />
+                <input type="button" value="/" class="AritmeticsButtons" />
+                <input type="button" value="%" class="AritmeticsButtons" />
+
+                <!-- Fourth button row -->
+                <input type="button" value="Or" class="AritmeticsButtons" />
+                <input type="button" value="Xor" class="AritmeticsButtons" />
+                <input type="button" value="D" class="Disabled" />
+                <input type="button" value="4" class="Numbers" />
+                <input type="button" value="5" class="Numbers" />
+                <input type="button" value="6" class="Numbers" />
+                <input type="button" value="*" class="AritmeticsButtons" />
+                <input type="button" value="1/&chi;" class="AritmeticsButtons" />
+
+                <!-- Fifth button row -->
+                <div id="LastButtonRows" >
+                    <input type="button" value="Lsh" class="AritmeticsButtons" />
+                    <input type="button" value="Rsh" class="AritmeticsButtons" />
+                    <input type="button" value="E" class="Disabled" />
+                    <input type="button" value="1" class="Numbers" />
+                    <input type="button" value="2" class="Numbers" />
+                    <input type="button" value="3" class="Numbers" />
+                    <input type="button" value="-" />
+                    <input type="button" value="=" id="EqualsButton" />
+
+                    <!-- Sixth button row -->
+                    <input type="button" value="Not" class="AritmeticsButtons" />
+                    <input type="button" value="And" class="AritmeticsButtons" />
+                    <input type="button" value="F" class="Disabled" />
+                    <input type="button" value="0" id="ZeroButton" class="Numbers" />
+                    <input type="button" value="." class="Disabled" />
+                    <input type="button" value="+" />
+                </div>   
+            </div>
+
+            <!-- Bottom-Left Panel -->
+            <div class="LeftSidePanels" id="SecondPanel">
+                <input type="radio" id="Qword" name="NumLength" checked="checked" />
+                <label for="Hex">Qword</label><br />
+                <input type="radio" id="Dword" name="NumLength" />
+                <label for="Dec">Dword</label><br />
+                <input type="radio" id="Word" name="NumLength" />
+                <label for="Oct">Word</label><br />
+                <input type="radio" id="Byte" name="NumLength" />
+                <label for="Bin">Byte</label>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

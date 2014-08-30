@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-number1">Number 1: </label>
+	<input type="text" id="tb-number1" />
+	<label for="tb-number2">Number 2: </label>
+	<input type="text" id="tb-number2" />
+	<label for="tb-number3">Number 3: </label>
+	<input type="text" id="tb-number3" />
+	<label for="tb-number4">Number 4: </label>
+	<input type="text" id="tb-number4" />
+	<label for="tb-number5">Number 5: </label>
+	<input type="text" id="tb-number5" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Even or Odd</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var number = new Array();
+            number[0] = jsConsole.readFloat("#tb-number1");
+            number[1] = jsConsole.readFloat("#tb-number2");
+            number[2] = jsConsole.readFloat("#tb-number3");
+            number[3] = jsConsole.readFloat("#tb-number4");
+            number[4] = jsConsole.readFloat("#tb-number5");
+
+            var biggestNum = -2147483648;
+
+            for (var counter = 0; counter < number.length; counter++) {
+                if (biggestNum < number[counter]) {
+                    biggestNum = number[counter];
+                }
+            }
+
+            jsConsole.writeLine("The biggest number is: " + biggestNum);
+        }
+    </script>
+</body>
+</html>

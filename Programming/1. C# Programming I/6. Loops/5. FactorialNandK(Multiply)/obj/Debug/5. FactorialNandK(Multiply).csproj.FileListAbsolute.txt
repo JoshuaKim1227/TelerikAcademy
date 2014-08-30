@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\bin\Debug\_5.FactorialNandK_Multiply_.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\bin\Debug\_5.FactorialNandK_Multiply_.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\bin\Debug\_5.FactorialNandK_Multiply_.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\obj\Debug\5. FactorialNandK(Multiply).csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\obj\Debug\_5.FactorialNandK_Multiply_.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\5. FactorialNandK(Multiply)\obj\Debug\_5.FactorialNandK_Multiply_.pdb

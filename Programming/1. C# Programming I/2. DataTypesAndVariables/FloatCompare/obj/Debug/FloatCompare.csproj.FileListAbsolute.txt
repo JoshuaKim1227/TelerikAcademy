@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\bin\Debug\FloatCompare.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\bin\Debug\FloatCompare.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\bin\Debug\FloatCompare.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\obj\Debug\FloatCompare.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\obj\Debug\FloatCompare.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloatCompare\obj\Debug\FloatCompare.pdb

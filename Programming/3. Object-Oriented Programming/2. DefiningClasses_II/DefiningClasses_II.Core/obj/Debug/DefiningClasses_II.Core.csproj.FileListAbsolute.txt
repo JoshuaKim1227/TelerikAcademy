@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. DefiningClasses_II\DefiningClasses_II.Core\bin\Debug\DefiningClasses_II.Core.dll
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. DefiningClasses_II\DefiningClasses_II.Core\bin\Debug\DefiningClasses_II.Core.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. DefiningClasses_II\DefiningClasses_II.Core\obj\Debug\DefiningClasses_II.Core.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. DefiningClasses_II\DefiningClasses_II.Core\obj\Debug\DefiningClasses_II.Core.dll
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. DefiningClasses_II\DefiningClasses_II.Core\obj\Debug\DefiningClasses_II.Core.pdb

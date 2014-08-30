@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\8. ShortIntInBin\bin\Debug\_8.ShortIntInBin.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\8. ShortIntInBin\bin\Debug\_8.ShortIntInBin.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\8. ShortIntInBin.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\_8.ShortIntInBin.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\_8.ShortIntInBin.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\_8.ShortIntInBin.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\_8.ShortIntInBin.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\8. ShortIntInBin\bin\Debug\_8.ShortIntInBin.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\8. ShortIntInBin\bin\Debug\_8.ShortIntInBin.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\8. ShortIntInBin\obj\Debug\8. ShortIntInBin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\8. StartAndFinishWholeWords\bin\Debug\_8.StartAndFinishWholeWords.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\8. StartAndFinishWholeWords\bin\Debug\_8.StartAndFinishWholeWords.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\8. StartAndFinishWholeWords\obj\Debug\_8.StartAndFinishWholeWords.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\8. StartAndFinishWholeWords\obj\Debug\_8.StartAndFinishWholeWords.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\8. StartAndFinishWholeWords\obj\Debug\_8.StartAndFinishWholeWords.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\8. StartAndFinishWholeWords\obj\Debug\_8.StartAndFinishWholeWords.pdb

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\bin\Debug\DevideBy7or5.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\bin\Debug\DevideBy7or5.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\bin\Debug\DevideBy7or5.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\obj\Debug\DevideBy7or5.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\obj\Debug\DevideBy7or5.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\DevideBy7or5\obj\Debug\2. DevideBy7or5.csprojResolveAssemblyReference.cache

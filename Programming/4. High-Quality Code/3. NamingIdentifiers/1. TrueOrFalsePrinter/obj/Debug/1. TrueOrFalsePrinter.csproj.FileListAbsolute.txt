@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\1. TrueOrFalsePrinter\bin\Debug\_1.TrueOrFalsePrinter.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\1. TrueOrFalsePrinter\bin\Debug\_1.TrueOrFalsePrinter.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\1. TrueOrFalsePrinter\obj\Debug\_1.TrueOrFalsePrinter.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\1. TrueOrFalsePrinter\obj\Debug\_1.TrueOrFalsePrinter.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\1. TrueOrFalsePrinter\obj\Debug\1. TrueOrFalsePrinter.csprojResolveAssemblyReference.cache

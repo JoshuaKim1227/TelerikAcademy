@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\bin\Debug\_3.DayOfWeekPrint.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\bin\Debug\_3.DayOfWeekPrint.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\obj\Debug\_3.DayOfWeekPrint.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\obj\Debug\_3.DayOfWeekPrint.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\obj\Debug\_3.DayOfWeekPrint.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\obj\Debug\_3.DayOfWeekPrint.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\bin\Debug\_3.DayOfWeekPrint.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\3. DayOfWeekPrint\bin\Debug\_3.DayOfWeekPrint.pdb

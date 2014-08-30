@@ -1,0 +1,7 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\bin\Debug\SoftwareAcademy.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\bin\Debug\SoftwareAcademy.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\obj\Debug\SoftwareAcademy.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\obj\Debug\SoftwareAcademy.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\1. SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\1. SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb

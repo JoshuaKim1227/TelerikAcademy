@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\bin\Debug\_19.DateExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\bin\Debug\_19.DateExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\obj\Debug\_19.DateExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\obj\Debug\_19.DateExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\bin\Debug\_19.DateExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\bin\Debug\_19.DateExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\obj\Debug\_19.DateExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\19. DateExtractor\obj\Debug\_19.DateExtractor.pdb

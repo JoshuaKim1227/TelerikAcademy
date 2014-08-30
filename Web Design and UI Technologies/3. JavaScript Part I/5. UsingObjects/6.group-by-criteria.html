@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JS Console - Example</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        #number {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <a href="#" onclick="onProcessButtonClick()">Process</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            // var criteria = "lastName";
+            var persons = [
+                { firstName: "Pesho", lastName: "Penchev", age: 30 },
+                { firstName: "Kiril", lastName: "Petrov", age: 19 },
+                { firstName: "Kiril", lastName: "Syrchadgiev", age: 30 },
+                { firstName: "Ivan", lastName: "Ivanov", age: 25 },
+                { firstName: "Stamat", lastName: "Stamatov", age: 19 },
+                { firstName: "Misho", lastName: "Mihalev", age: 68 },
+                { firstName: "Stamat", lastName: "Stoilov", age: 68 },
+                { firstName: "Kiril", lastName: "Penchev", age: 44 },
+                { firstName: "Gosho", lastName: "Stamatov", age: 68 },
+                { firstName: "Misho", lastName: "Syrchadgiev", age: 44 },
+                { firstName: "Stamat", lastName: "Stamatov", age: 68 },
+                { firstName: "Mitko", lastName: "Dmitrov", age: 55 },
+            ];
+
+            function group(persons, criteria) {
+                switch (criteria) {
+                    case "firstName": return groupByFirstName(persons);
+                    case "lastName": return groupByLastName(persons);
+                    case "age": return groupByAge(persons);
+                    default: return;
+                }
+
+                function groupByFirstName(persons) {
+                    var grouped = new Array();
+                    var used = [];
+
+                    for (var person = 0; person < persons.length; person++) {
+                        var name = persons[person].firstName;
+                        var isUsed = false;
+
+                        for (var index = 0; index < used.length; index++) {
+                            if (name == used[index]) {
+                                var isUsed = true;
+                                break;
+                            }
+                        }
+                        if (isUsed) {
+                            continue;
+                        }
+
+                        used.push(name);
+                        grouped[name] = [];
+
+                        for (var searcher = person; searcher < persons.length; searcher++) {
+                            if (name == persons[searcher].firstName) {
+                                grouped[name].push(persons[searcher]);
+                            }
+                        }
+                    }
+
+                    return grouped;
+                }
+
+                function groupByLastName(persons) {
+                    var grouped = new Array();
+                    var used = [];
+
+                    for (var person = 0; person < persons.length; person++) {
+                        var name = persons[person].lastName;
+                        var isUsed = false;
+
+                        for (var index = 0; index < used.length; index++) {
+                            if (name == used[index]) {
+                                var isUsed = true;
+                                break;
+                            }
+                        }
+                        if (isUsed) {
+                            continue;
+                        }
+
+                        used.push(name);
+                        grouped[name] = [];
+
+                        for (var searcher = person; searcher < persons.length; searcher++) {
+                            if (name == persons[searcher].lastName) {
+                                grouped[name].push(persons[searcher]);
+                            }
+                        }
+                    }
+
+                    return grouped;
+                }
+
+                function groupByAge(persons) {
+                    var grouped = new Array();
+                    var used = [];
+
+                    for (var person = 0; person < persons.length; person++) {
+                        var age = persons[person].age;
+                        var isUsed = false;
+
+                        for (var index = 0; index < used.length; index++) {
+                            if (age == used[index]) {
+                                var isUsed = true;
+                                break;
+                            }
+                        }
+                        if (isUsed) {
+                            continue;
+                        }
+
+                        used.push(age);
+                        grouped[age] = [];
+
+                        for (var searcher = person; searcher < persons.length; searcher++) {
+                            if (age == persons[searcher].age) {
+                                grouped[age].push(persons[searcher]);
+                            }
+                        }
+                    }
+
+                    return grouped;
+                }
+            }
+
+            var groupedByFName = group(persons, "firstName");
+            var groupedByLName = group(persons, "lastName");
+            var groupedByAge = group(persons, "age");
+
+            var breakpoint;
+        }
+    </script>
+</body>
+</html>

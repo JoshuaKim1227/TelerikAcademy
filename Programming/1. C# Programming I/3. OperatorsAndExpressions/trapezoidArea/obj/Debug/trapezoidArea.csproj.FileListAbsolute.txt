@@ -1,0 +1,1 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\trapezoidArea\bin\Debug\trapezoidArea.exe.config

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\bin\Debug\_9.CatalanianNumbers.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\bin\Debug\_9.CatalanianNumbers.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\bin\Debug\_9.CatalanianNumbers.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\obj\Debug\9. CatalanianNumbers.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\obj\Debug\_9.CatalanianNumbers.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\9. CatalanianNumbers\obj\Debug\_9.CatalanianNumbers.pdb

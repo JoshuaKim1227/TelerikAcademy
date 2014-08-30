@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. Human\2. Human\bin\Debug\_2.Human.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. Human\2. Human\bin\Debug\_2.Human.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. Human\2. Human\obj\Debug\2. Human.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. Human\2. Human\obj\Debug\_2.Human.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\2. Human\2. Human\obj\Debug\_2.Human.pdb

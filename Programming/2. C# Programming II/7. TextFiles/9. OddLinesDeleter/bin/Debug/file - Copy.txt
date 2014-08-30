@@ -1,0 +1,11 @@
+Strings are collections of characters.
+The C# language introduces the string type.
+This type allows us to manipulate character
+data through methods and properties.
+It provides methods to concatenate, append,
+replace, search and split.
+Consider a string of characters.
+A string is a class that holds characters
+and provides operations such as subscripting,
+concatenation, and comparison that we usually
+associated with the notion of a "string."

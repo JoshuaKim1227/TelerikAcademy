@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            function stringFormat() {
+                var args = [];
+                var placeHolders = [];
+                var placeNumbers = [];
+                var reHolders = /{\d}/gi;
+                var reNumbers = /\d+/gi;
+                var result;
+
+                for (var arg = 0; arg < arguments.length; arg++) {
+                    args.push(arguments[arg]);
+                }
+                
+                var text = args.shift();
+
+                placeHolders = text.match(reHolders);
+                for (var index = 0; index < placeHolders.length; index++) {
+                    placeNumbers.push(parseInt(placeHolders[index].match(reNumbers)));
+                }
+
+                for (var index = 0; index < placeNumbers.length; index++) {
+                    text = text.replace(placeHolders[index], args[placeNumbers[index]]);
+                }
+
+                return text;
+            }
+
+            var format = "{0}, {1}, {0} text {2}";
+            var result = stringFormat(format, 1, "Pesho", "Gosho");
+
+            jsConsole.writeLine(result);
+        }
+    </script>
+</body>
+</html>

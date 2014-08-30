@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\1. NamePrinter\bin\Debug\_1.NamePrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\1. NamePrinter\bin\Debug\_1.NamePrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\1. NamePrinter\obj\Debug\01. NamePrinter.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\1. NamePrinter\obj\Debug\_1.NamePrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\1. NamePrinter\obj\Debug\_1.NamePrinter.pdb

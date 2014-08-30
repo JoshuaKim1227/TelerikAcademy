@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-firstNum">First Number: </label>
+	<input type="text" id="tb-firstNum" />
+	<label for="tb-secondNum">Second Number: </label>
+	<input type="text" id="tb-secondNum" />
+	<label for="tb-thirdNum">Third Number: </label>
+	<input type="text" id="tb-thirdNum" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var firstNum = jsConsole.readFloat("#tb-firstNum");
+            var secondNum = jsConsole.readFloat("#tb-secondNum");
+            var thirdNum = jsConsole.readFloat("#tb-thirdNum");
+
+            var biggestNum;
+            var biggerNum;
+            var bigNum;
+
+            if (firstNum > secondNum) {
+                if (firstNum > thirdNum) {
+                    biggestNum = firstNum;
+
+                    if (secondNum > thirdNum) {
+                        biggerNum = secondNum;
+                        bigNum = thirdNum;
+                    }
+                    else if (thirdNum > secondNum) {
+                        biggerNum = thirdNum;
+                        bigNum = secondNum;
+                    }
+                }
+            }
+            if (secondNum > firstNum) {
+                if (secondNum > thirdNum) {
+                    biggestNum = secondNum;
+
+                    if (firstNum > thirdNum) {
+                        biggerNum = firstNum;
+                        bigNum = thirdNum;
+                    }
+                    else if (thirdNum > firstNum) {
+                        biggerNum = thirdNum;
+                        bigNum = firstNum;
+                    }
+                }
+                else if (thirdNum > secondNum) {
+                    biggestNum = thirdNum;
+
+                    if (secondNum > firstNum) {
+                        biggerNum = secondNum;
+                        bigNum = firstNum;
+                    }
+                }
+            }
+            if (thirdNum > firstNum) {
+                if (thirdNum > secondNum) {
+                    biggestNum = thirdNum;
+
+                    if (firstNum > secondNum) {
+                        biggerNum = firstNum;
+                        bigNum = secondNum;
+                    }
+                }
+                else if (thirdNum > secondNum) {
+                    biggestNum = thirdNum;
+
+                    if (secondNum > firstNum) {
+                        biggerNum = secondNum;
+                        bigNum = firstNum;
+                    }
+                }
+            }
+
+            jsConsole.writeLine("The numbers in descenting order:");
+            jsConsole.writeLine(biggestNum);
+            jsConsole.writeLine(biggerNum);
+            jsConsole.writeLine(bigNum);
+        }
+    </script>
+</body>
+</html>

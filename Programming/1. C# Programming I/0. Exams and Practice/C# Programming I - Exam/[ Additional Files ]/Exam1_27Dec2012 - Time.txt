@@ -1,0 +1,11 @@
+1. NextDate:
+	45min 	0:45 	(80/100)
+	60min 	1:00	(90/100)
+	70min 	1:10	(100/100)
+
+2. TribonacciTriangle:
+	120min  2:00	(100/100)
+
+4. Carpets: 
+	150min  2:30	(100/100)
+	

@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\4. Person\bin\Debug\_4.Person.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\4. Person\bin\Debug\_4.Person.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\4. Person\obj\Debug\_4.Person.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\4. Person\obj\Debug\_4.Person.pdb

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\obj\Debug\5. ThirdBit.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\obj\Debug\ThirdBit.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\ThirdBit\obj\Debug\ThirdBit.pdb

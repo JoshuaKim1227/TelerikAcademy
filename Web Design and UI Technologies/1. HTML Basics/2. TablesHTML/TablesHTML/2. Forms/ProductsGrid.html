@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form>
+        <label>Drag a column header and drop it here to group by that column</label>
+        <table border="1">
+            <colgroup>
+                <col style="width:30px" />
+                <col style="width:300px" />
+                <col style="width:180px" />
+                <col style="width:180px" />
+                <col style="width:180px" />
+                <col style="width:30px" />
+            </colgroup>
+            <tr>
+                <th><label>ProductID</label></th>
+                <th><label>Product name</label></th>
+                <th><label>Unit price</label></th>
+                <th><label>Quantity per unit</label></th>
+                <th><label>Units in stock</label></th>
+                <th><label>Discontinued</label></th>
+            </tr>
+            <tr>
+                <td><input type="text" size="1"/></td>
+                <td><input type="text" size="30"/></td>
+                <td><input type="text" size="15"/></td>
+                <td><input type="text" size="15"/></td>
+                <td><input type="text" size="15"/></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>1</label></td>
+                <td><label>Chai</label></td>
+                <td><label>$18.00</label></td>
+                <td><label>10 boxes x 20 bags</label></td>
+                <td><label>39</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>2</label></td>
+                <td><label>Chang</label></td>
+                <td><label>$19.00</label></td>
+                <td><label>24 - 12 oz bottles</label></td>
+                <td><label>17</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>3</label></td>
+                <td><label>Aniseed Syrup</label></td>
+                <td><label>$10.00</label></td>
+                <td><label>12 - 550ml bottles</label></td>
+                <td><label>13</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>4</label></td>
+                <td><label>Chef Anton's Cajun Seasoning</label></td>
+                <td><label>$22.00</label></td>
+                <td><label>48 - 6 oz jars</label></td>
+                <td><label>53</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>5</label></td>
+                <td><label>Chef Anton's Gumbo Mix</label></td>
+                <td><label>$21.35</label></td>
+                <td><label>36 boxes</label></td>
+                <td><label>0</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>6</label></td>
+                <td><label>Grandma's Boysenberry Spread</label></td>
+                <td><label>$25.00</label></td>
+                <td><label>12 - 8 oz jars</label></td>
+                <td><label>120</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>7</label></td>
+                <td><label>Uncle Bob's Organic Dried Pears</label></td>
+                <td><label>$30.00</label></td>
+                <td><label>12 - 1 lb pkgs.</label></td>
+                <td><label>15</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>8</label></td>
+                <td><label>Northwoods Cranberry Sauce</label></td>
+                <td><label>$40.00</label></td>
+                <td><label>12 - 12 oz jars</label></td>
+                <td><label>6</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>9</label></td>
+                <td><label>Mishi Kobe Niku</label></td>
+                <td><label>$97.00</label></td>
+                <td><label>18 - 500 g pkgs.</label></td>
+                <td><label>29</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td><label>10</label></td>
+                <td><label>Ikura</label></td>
+                <td><label>$31.00</label></td>
+                <td><label>12 - 200 ml jars</label></td>
+                <td><label>31</label></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <input type="button" value="|<"/>
+                    <input type="button" value="<"/>
+                    <a href="#">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <a href="#">4</a>
+                    <a href="#">5</a>
+                    <a href="#">6</a>
+                    <a href="#">7</a>
+                    <a href="#">8</a>
+                    <a href="#">9</a>
+                    <a href="#">10</a>
+                    &nbsp&nbsp...
+                    <input type="button" value=">"/>
+                    <input type="button" value=">|"/>
+                    &nbsp&nbsp
+                    <label for="Num">Page size:</label>
+                    <select name="PageSize" id="Num">
+                        <option value="10" selected="selected" >10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>         
+                </td>
+                <td colspan="2" align="right"><label style="text-align: right">335104 items in 33511 pages</label></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

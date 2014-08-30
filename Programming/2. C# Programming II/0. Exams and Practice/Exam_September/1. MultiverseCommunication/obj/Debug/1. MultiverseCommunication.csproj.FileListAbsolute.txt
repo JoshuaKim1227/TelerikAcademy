@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\1. MultiverseCommunication\bin\Debug\_1.MultiverseCommunication.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\1. MultiverseCommunication\bin\Debug\_1.MultiverseCommunication.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\1. MultiverseCommunication\obj\Debug\1. MultiverseCommunication.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\1. MultiverseCommunication\obj\Debug\_1.MultiverseCommunication.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\1. MultiverseCommunication\obj\Debug\_1.MultiverseCommunication.pdb

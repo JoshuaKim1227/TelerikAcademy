@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\3. CardWars\bin\Debug\_3.CardWars.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\3. CardWars\bin\Debug\_3.CardWars.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\3. CardWars\obj\Debug\3. CardWars.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\3. CardWars\obj\Debug\_3.CardWars.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\3. CardWars\obj\Debug\_3.CardWars.pdb

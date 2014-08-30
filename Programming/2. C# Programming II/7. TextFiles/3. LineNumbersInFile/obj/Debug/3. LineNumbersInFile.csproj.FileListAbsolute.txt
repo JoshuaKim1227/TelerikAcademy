@@ -1,0 +1,9 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\bin\Debug\_3.LineNumbersInFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\bin\Debug\_3.LineNumbersInFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\obj\Debug\_3.LineNumbersInFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\obj\Debug\_3.LineNumbersInFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\obj\Debug\3. LineNumbersInFile.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\bin\Debug\_3.LineNumbersInFile.exe.CodeAnalysisLog.xml
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\3. LineNumbersInFile\bin\Debug\_3.LineNumbersInFile.exe.lastcodeanalysissucceeded
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\3. LineNumbersInFile\obj\Debug\_3.LineNumbersInFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\3. LineNumbersInFile\obj\Debug\_3.LineNumbersInFile.pdb

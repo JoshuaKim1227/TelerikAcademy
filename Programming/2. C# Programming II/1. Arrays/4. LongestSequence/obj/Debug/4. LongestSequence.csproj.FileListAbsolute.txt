@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\4. LongestSequence\bin\Debug\_4.LongestSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\4. LongestSequence\bin\Debug\_4.LongestSequence.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\4. LongestSequence\obj\Debug\4. LongestSequence.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.pdb

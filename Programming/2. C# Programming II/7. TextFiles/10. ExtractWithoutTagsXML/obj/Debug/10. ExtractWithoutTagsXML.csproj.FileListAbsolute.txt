@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\10. ExtractWithoutTagsXML\obj\Debug\10. ExtractWithoutTagsXML.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\10. ExtractWithoutTagsXML\bin\Debug\_10.ExtractWithoutTagsXML.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\10. ExtractWithoutTagsXML\bin\Debug\_10.ExtractWithoutTagsXML.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\10. ExtractWithoutTagsXML\obj\Debug\_10.ExtractWithoutTagsXML.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\10. ExtractWithoutTagsXML\obj\Debug\_10.ExtractWithoutTagsXML.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\10. ExtractWithoutTagsXML\obj\Debug\_10.ExtractWithoutTagsXML.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\10. ExtractWithoutTagsXML\obj\Debug\_10.ExtractWithoutTagsXML.pdb

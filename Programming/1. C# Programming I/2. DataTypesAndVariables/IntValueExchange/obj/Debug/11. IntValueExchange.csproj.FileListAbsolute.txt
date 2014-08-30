@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\bin\Debug\IntValueExchange.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\bin\Debug\IntValueExchange.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\bin\Debug\IntValueExchange.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\obj\Debug\11. IntValueExchange.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\obj\Debug\IntValueExchange.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IntValueExchange\obj\Debug\IntValueExchange.pdb

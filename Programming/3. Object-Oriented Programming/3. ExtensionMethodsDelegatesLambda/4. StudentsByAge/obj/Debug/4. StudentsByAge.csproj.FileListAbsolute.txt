@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\4. StudentsByAge\bin\Debug\_4.StudentsByAge.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\4. StudentsByAge\bin\Debug\_4.StudentsByAge.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\4. StudentsByAge\obj\Debug\_4.StudentsByAge.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\4. StudentsByAge\obj\Debug\_4.StudentsByAge.pdb

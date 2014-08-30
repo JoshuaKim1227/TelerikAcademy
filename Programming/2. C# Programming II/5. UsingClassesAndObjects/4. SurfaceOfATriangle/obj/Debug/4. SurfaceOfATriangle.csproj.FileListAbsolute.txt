@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\bin\Debug\_4.SurfaceOfATriangle.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\bin\Debug\_4.SurfaceOfATriangle.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\4. SurfaceOfATriangle.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\_4.SurfaceOfATriangle.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\_4.SurfaceOfATriangle.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\_4.SurfaceOfATriangle.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\_4.SurfaceOfATriangle.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\bin\Debug\_4.SurfaceOfATriangle.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\bin\Debug\_4.SurfaceOfATriangle.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\4. SurfaceOfATriangle\obj\Debug\4. SurfaceOfATriangle.csprojResolveAssemblyReference.cache

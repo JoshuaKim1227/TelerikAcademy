@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\14. QuickSortAlgorithm\obj\Debug\14. QuickSortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\14. QuickSortAlgorithm\obj\Debug\14. QuickSortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.pdb

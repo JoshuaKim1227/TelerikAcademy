@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\9. MaxValueInArrayPortion\bin\Debug\_9.MaxValueInArrayPortion.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\9. MaxValueInArrayPortion\bin\Debug\_9.MaxValueInArrayPortion.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\9. MaxValueInArrayPortion\obj\Debug\_9.MaxValueInArrayPortion.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\9. MaxValueInArrayPortion\obj\Debug\_9.MaxValueInArrayPortion.pdb

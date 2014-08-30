@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\1. Garden\bin\Debug\_1.Garden.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\1. Garden\bin\Debug\_1.Garden.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\1. Garden\obj\Debug\1. Garden.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\1. Garden\obj\Debug\_1.Garden.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\1. Garden\obj\Debug\_1.Garden.pdb

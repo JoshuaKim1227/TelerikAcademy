@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\12. TestDrivenDevelopment\bin\Debug\Poker.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\12. TestDrivenDevelopment\bin\Debug\Poker.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\12. TestDrivenDevelopment\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\12. TestDrivenDevelopment\obj\Debug\Poker.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\12. TestDrivenDevelopment\obj\Debug\Poker.pdb

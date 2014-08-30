@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb

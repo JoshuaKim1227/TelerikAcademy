@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Tables", "FreshFruits\1. Tables.csproj", "{725EF1C9-5C11-4EE1-8B1C-BB89D096BB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Forms", "2. Forms\2. Forms.csproj", "{AFBAA1CF-D876-4F8E-B604-56AAA3246D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725EF1C9-5C11-4EE1-8B1C-BB89D096BB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725EF1C9-5C11-4EE1-8B1C-BB89D096BB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725EF1C9-5C11-4EE1-8B1C-BB89D096BB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725EF1C9-5C11-4EE1-8B1C-BB89D096BB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBAA1CF-D876-4F8E-B604-56AAA3246D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBAA1CF-D876-4F8E-B604-56AAA3246D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBAA1CF-D876-4F8E-B604-56AAA3246D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBAA1CF-D876-4F8E-B604-56AAA3246D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

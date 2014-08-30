@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\2. JoroTheRabbit\bin\Debug\_2.JoroTheRabbit.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\2. JoroTheRabbit\bin\Debug\_2.JoroTheRabbit.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\2. JoroTheRabbit\obj\Debug\_2.JoroTheRabbit.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\2. JoroTheRabbit\obj\Debug\_2.JoroTheRabbit.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\2. JoroTheRabbit\obj\Debug\2. JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\2. JoroTheRabbit\obj\Debug\_2.JoroTheRabbit.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\2. JoroTheRabbit\obj\Debug\_2.JoroTheRabbit.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\2. JoroTheRabbit\bin\Debug\_2.JoroTheRabbit.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\2. JoroTheRabbit\bin\Debug\_2.JoroTheRabbit.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\2. JoroTheRabbit\obj\Debug\2. JoroTheRabbit.csprojResolveAssemblyReference.cache

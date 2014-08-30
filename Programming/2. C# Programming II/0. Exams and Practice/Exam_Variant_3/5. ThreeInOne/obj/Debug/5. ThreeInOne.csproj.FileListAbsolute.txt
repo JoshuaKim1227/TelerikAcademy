@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\5. ThreeInOne\bin\Debug\_5.ThreeInOne.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\5. ThreeInOne\bin\Debug\_5.ThreeInOne.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\5. ThreeInOne\obj\Debug\5. ThreeInOne.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\5. ThreeInOne\obj\Debug\_5.ThreeInOne.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\5. ThreeInOne\obj\Debug\_5.ThreeInOne.pdb

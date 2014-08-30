@@ -1,0 +1,1 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\EmployeeRecords\bin\Debug\EmployeeRecords.exe.config

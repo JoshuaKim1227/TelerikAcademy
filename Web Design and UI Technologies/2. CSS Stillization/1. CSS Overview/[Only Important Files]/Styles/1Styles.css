@@ -1,0 +1,50 @@
+﻿
+#Container {
+    background-color: #595959;
+}
+
+#Container h1 {
+    color: #B6BDC4;
+    font-size: 21px;
+}
+
+#Image {
+    margin-right: 6px;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+.ListTitle {
+    font-style: italic;
+    color: white;
+    float: left;
+}
+
+.GrayInfo {
+    color: #8C989E;
+}
+
+.Answered {
+    color: #DF6929;
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 132px;
+    margin-bottom: 18px;
+    text-decoration: none;
+    color: #C8D799;
+}
+
+a {
+    color: #C8D799;
+    text-decoration: none;
+}
+
+dt:after {
+    content: ":";
+}
+

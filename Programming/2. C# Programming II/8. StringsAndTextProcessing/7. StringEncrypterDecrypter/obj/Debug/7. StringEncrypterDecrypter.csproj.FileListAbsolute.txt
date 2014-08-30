@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\obj\Debug\7. StringEncrypterDecrypter.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\bin\Debug\_7.StringEncrypterDecrypter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\bin\Debug\_7.StringEncrypterDecrypter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\obj\Debug\_7.StringEncrypterDecrypter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\obj\Debug\_7.StringEncrypterDecrypter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\obj\Debug\_7.StringEncrypterDecrypter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\7. StringEncrypterDecrypter\obj\Debug\_7.StringEncrypterDecrypter.pdb

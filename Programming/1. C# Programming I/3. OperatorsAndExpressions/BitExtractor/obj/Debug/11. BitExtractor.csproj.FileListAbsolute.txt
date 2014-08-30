@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitExtractor\bin\Debug\BitExtractor.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitExtractor\bin\Debug\BitExtractor.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitExtractor\bin\Debug\BitExtractor.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitExtractor\obj\Debug\BitExtractor.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitExtractor\obj\Debug\BitExtractor.pdb

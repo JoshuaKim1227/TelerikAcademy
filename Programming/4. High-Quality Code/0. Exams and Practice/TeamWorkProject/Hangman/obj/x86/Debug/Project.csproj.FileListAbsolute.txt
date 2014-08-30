@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practise\TeamWorkProject\Hangman\bin\Debug\Hangman.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practise\TeamWorkProject\Hangman\bin\Debug\Hangman.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practise\TeamWorkProject\Hangman\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practise\TeamWorkProject\Hangman\obj\x86\Debug\Hangman.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practise\TeamWorkProject\Hangman\obj\x86\Debug\Hangman.pdb

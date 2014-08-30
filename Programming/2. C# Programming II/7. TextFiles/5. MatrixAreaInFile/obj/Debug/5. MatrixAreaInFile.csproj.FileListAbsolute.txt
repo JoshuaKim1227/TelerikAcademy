@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\5. MatrixAreaInFile.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\5. MatrixAreaInFile\bin\Debug\_5.MatrixAreaInFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\5. MatrixAreaInFile\bin\Debug\_5.MatrixAreaInFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.pdb

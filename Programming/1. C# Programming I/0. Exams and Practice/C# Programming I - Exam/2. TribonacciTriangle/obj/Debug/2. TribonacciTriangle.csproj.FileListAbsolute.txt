@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Other\Practice\SoftwareAcademy\Exam1_27Dec2012\2. TribonacciTriangle\bin\Debug\_2.TribonacciTriangle.exe
+D:\Media\Development\Telerik Academy\Other\Practice\SoftwareAcademy\Exam1_27Dec2012\2. TribonacciTriangle\bin\Debug\_2.TribonacciTriangle.pdb
+D:\Media\Development\Telerik Academy\Other\Practice\SoftwareAcademy\Exam1_27Dec2012\2. TribonacciTriangle\obj\Debug\_2.TribonacciTriangle.exe
+D:\Media\Development\Telerik Academy\Other\Practice\SoftwareAcademy\Exam1_27Dec2012\2. TribonacciTriangle\obj\Debug\_2.TribonacciTriangle.pdb
+D:\Media\Development\Telerik Academy\Other\Practice\SoftwareAcademy\Exam1_27Dec2012\2. TribonacciTriangle\obj\Debug\2. TribonacciTriangle.csprojResolveAssemblyReference.cache

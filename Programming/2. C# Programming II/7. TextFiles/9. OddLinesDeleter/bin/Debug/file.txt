@@ -1,0 +1,6 @@
+Strings are collections of characters.
+This type allows us to manipulate character
+It provides methods to concatenate, append,
+Consider a string of characters.
+and provides operations such as subscripting,
+associated with the notion of a "string."

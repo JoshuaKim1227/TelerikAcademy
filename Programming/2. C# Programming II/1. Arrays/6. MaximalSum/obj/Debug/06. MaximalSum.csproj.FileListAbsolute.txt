@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\bin\Debug\_6.MaximalSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\bin\Debug\_6.MaximalSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.pdb

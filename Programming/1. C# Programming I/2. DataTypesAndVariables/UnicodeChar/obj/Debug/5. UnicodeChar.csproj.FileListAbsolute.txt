@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\bin\Debug\UnicodeChar.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\bin\Debug\UnicodeChar.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\obj\Debug\UnicodeChar.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\obj\Debug\UnicodeChar.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\UnicodeChar\obj\Debug\5. UnicodeChar.csprojResolveAssemblyReference.cache

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<a href="#" onclick="onProcessButtonClick()">Process (Click Here)</a>
+	<br />
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var minProperty = "zzz";
+            var maxProperty = "aaa";
+
+            var doc = document;
+            var win = window;
+            var nav = navigator;
+
+            for (var property in doc) {
+                if (minProperty > property.toLowerCase()) {
+                    minProperty = property;
+                }
+                if (maxProperty < property.toLowerCase()) {
+                    maxProperty = property;
+                }
+            }
+
+            jsConsole.writeLine("Document's")
+            jsConsole.writeLine("Min property: " + minProperty);
+            jsConsole.writeLine("Max property: " + maxProperty);
+            jsConsole.writeLine("");
+
+            var minProperty = "zzz";
+            var maxProperty = "aaa";
+
+            for (var property in win) {
+                if (minProperty > property.toLowerCase()) {
+                    minProperty = property;
+                }
+                if (maxProperty < property.toLowerCase()) {
+                    maxProperty = property;
+                }
+            }
+
+            jsConsole.writeLine("Window's")
+            jsConsole.writeLine("Min property: " + minProperty);
+            jsConsole.writeLine("Max property: " + maxProperty);
+            jsConsole.writeLine("");
+
+            var minProperty = "zzz";
+            var maxProperty = "aaa";
+
+            for (var property in nav) {
+                if (minProperty > property.toLowerCase()) {
+                    minProperty = property;
+                }
+                if (maxProperty < property.toLowerCase()) {
+                    maxProperty = property;
+                }
+            }
+
+            jsConsole.writeLine("Window's")
+            jsConsole.writeLine("Min property: " + minProperty);
+            jsConsole.writeLine("Max property: " + maxProperty);
+        }
+    </script>
+</body>
+</html>

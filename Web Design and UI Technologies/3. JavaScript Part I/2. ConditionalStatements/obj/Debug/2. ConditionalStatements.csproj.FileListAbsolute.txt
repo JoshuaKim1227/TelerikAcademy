@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\2. ConditionalStatements\bin\_2.ConditionalStatements.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\2. ConditionalStatements\bin\_2.ConditionalStatements.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\2. ConditionalStatements\obj\Debug\2. ConditionalStatements.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\2. ConditionalStatements\obj\Debug\_2.ConditionalStatements.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\2. ConditionalStatements\obj\Debug\_2.ConditionalStatements.pdb

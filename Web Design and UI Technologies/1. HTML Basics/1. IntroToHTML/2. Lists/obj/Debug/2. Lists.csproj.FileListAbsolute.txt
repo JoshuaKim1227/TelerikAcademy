@@ -1,0 +1,4 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\2. Lists\bin\_2.Lists.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\2. Lists\bin\_2.Lists.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\2. Lists\obj\Debug\_2.Lists.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\2. Lists\obj\Debug\_2.Lists.pdb

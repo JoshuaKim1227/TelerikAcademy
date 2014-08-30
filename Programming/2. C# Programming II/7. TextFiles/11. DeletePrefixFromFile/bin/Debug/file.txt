@@ -1,0 +1,9 @@
+Did you ever wonder what testRegular Expressions are all about and 
+want to gain a basic understanding testquickly? My goal is to get you 
+up and running with a basic understanding of regular expressions within 
+test30 minutes. The reality is that regular expressions aren't as complex 
+as they look. The best way to learn is to start writing and experimenting. 
+After your first half testhour,you should know a few of the testbasic 
+constructs and be able to design and use regular expressions in your 
+programs or web testpages. testFor those of you who get hooked, 
+there are many excellent resources available to further your education.

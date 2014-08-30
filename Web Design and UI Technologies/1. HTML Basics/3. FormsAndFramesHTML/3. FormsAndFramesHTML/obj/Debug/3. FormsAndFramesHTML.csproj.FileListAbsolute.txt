@@ -1,0 +1,4 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\3. FormsAndFramesHTML\3. FormsAndFramesHTML\bin\_3.FormsAndFramesHTML.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\3. FormsAndFramesHTML\3. FormsAndFramesHTML\bin\_3.FormsAndFramesHTML.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\3. FormsAndFramesHTML\3. FormsAndFramesHTML\obj\Debug\_3.FormsAndFramesHTML.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\3. FormsAndFramesHTML\3. FormsAndFramesHTML\obj\Debug\_3.FormsAndFramesHTML.pdb

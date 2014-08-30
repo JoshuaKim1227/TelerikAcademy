@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\1-3. Student\obj\Debug\1-3. Student.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\1-3. Student\bin\Debug\_1_3.Student.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\1-3. Student\bin\Debug\_1_3.Student.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\1-3. Student\obj\Debug\_1_3.Student.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\1-3. Student\obj\Debug\_1_3.Student.pdb

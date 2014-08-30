@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\bin\Debug\_10.ToUnicodeConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\bin\Debug\_10.ToUnicodeConverter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\10. ToUnicodeConverter.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\_10.ToUnicodeConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\_10.ToUnicodeConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\_10.ToUnicodeConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\_10.ToUnicodeConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\bin\Debug\_10.ToUnicodeConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\bin\Debug\_10.ToUnicodeConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\10. ToUnicodeConverter\obj\Debug\10. ToUnicodeConverter.csprojResolveAssemblyReference.cache

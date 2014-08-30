@@ -1,0 +1,24 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\bin\Debug\SolarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\bin\Debug\SolarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\MainWindow.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\App.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\MainWindow.baml
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem.g.resources
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\obj\Debug\SolarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\bin\Debug\SolarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\bin\Debug\SolarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\MainWindow.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\App.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\MainWindow.baml
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\1. SolarSystem\obj\Debug\SolarSystem.g.resources

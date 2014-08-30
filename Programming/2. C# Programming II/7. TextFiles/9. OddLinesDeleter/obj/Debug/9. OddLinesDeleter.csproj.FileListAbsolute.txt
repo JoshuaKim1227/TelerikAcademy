@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\9. OddLinesDeleter\bin\Debug\_9.OddLinesDeleter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\9. OddLinesDeleter\bin\Debug\_9.OddLinesDeleter.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\9. OddLinesDeleter\obj\Debug\_9.OddLinesDeleter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\9. OddLinesDeleter\obj\Debug\_9.OddLinesDeleter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\9. OddLinesDeleter\obj\Debug\_9.OddLinesDeleter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\9. OddLinesDeleter\obj\Debug\_9.OddLinesDeleter.pdb

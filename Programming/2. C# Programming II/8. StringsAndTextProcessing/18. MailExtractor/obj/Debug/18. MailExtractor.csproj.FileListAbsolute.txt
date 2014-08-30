@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\bin\Debug\_18.MailExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\bin\Debug\_18.MailExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\18. MailExtractor.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\_18.MailExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\_18.MailExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\bin\Debug\_18.MailExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\bin\Debug\_18.MailExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\18. MailExtractor.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\_18.MailExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\18. MailExtractor\obj\Debug\_18.MailExtractor.pdb

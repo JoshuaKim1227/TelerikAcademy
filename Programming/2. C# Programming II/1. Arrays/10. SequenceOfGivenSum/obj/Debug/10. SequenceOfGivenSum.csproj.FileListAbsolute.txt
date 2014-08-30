@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\10. SequenceOfGivenSum\obj\Debug\10. SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\10. SequenceOfGivenSum\obj\Debug\10. SequenceOfGivenSum.csprojResolveAssemblyReference.cache

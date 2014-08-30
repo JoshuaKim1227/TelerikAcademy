@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\3. WebFormsBasic\bin\_3.WebFormsBasic.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\3. WebFormsBasic\bin\_3.WebFormsBasic.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\3. WebFormsBasic\obj\Debug\3. WebFormsBasic.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\3. WebFormsBasic\obj\Debug\_3.WebFormsBasic.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\3. WebFormsBasic\obj\Debug\_3.WebFormsBasic.pdb

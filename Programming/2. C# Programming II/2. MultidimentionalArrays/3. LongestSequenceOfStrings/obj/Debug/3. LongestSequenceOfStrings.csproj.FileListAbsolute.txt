@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\bin\Debug\_3.LongestSequenceOfStrings.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\bin\Debug\_3.LongestSequenceOfStrings.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\3. LongestSequenceOfStrings.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\_3.LongestSequenceOfStrings.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\_3.LongestSequenceOfStrings.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\_3.LongestSequenceOfStrings.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\_3.LongestSequenceOfStrings.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\bin\Debug\_3.LongestSequenceOfStrings.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\bin\Debug\_3.LongestSequenceOfStrings.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\3. LongestSequenceOfStrings\obj\Debug\3. LongestSequenceOfStrings.csprojResolveAssemblyReference.cache

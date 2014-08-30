@@ -1,0 +1,7 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\bin\Debug\Matrix.Tests.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\bin\Debug\Matrix.Tests.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\bin\Debug\GameFifteen.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\bin\Debug\GameFifteen.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\obj\Debug\WalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\obj\Debug\Matrix.Tests.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\13. Refactoring\Matrix.Tests\Matrix.Tests\obj\Debug\Matrix.Tests.pdb

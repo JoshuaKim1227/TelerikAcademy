@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\FreshFruits\bin\FreshFruits.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\FreshFruits\bin\FreshFruits.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\FreshFruits\obj\Debug\1. FreshFruits.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\FreshFruits\obj\Debug\FreshFruits.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\2. TablesHTML\TablesHTML\FreshFruits\obj\Debug\FreshFruits.pdb

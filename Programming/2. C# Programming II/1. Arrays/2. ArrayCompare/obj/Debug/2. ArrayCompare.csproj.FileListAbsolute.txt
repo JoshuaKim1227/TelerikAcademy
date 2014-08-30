@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\2. ArrayCompare\bin\Debug\_2.ArrayCompare.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\2. ArrayCompare\bin\Debug\_2.ArrayCompare.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\2. ArrayCompare\bin\Debug\_2.ArrayCompare.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\2. ArrayCompare\obj\Debug\_2.ArrayCompare.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\2. ArrayCompare\obj\Debug\_2.ArrayCompare.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\2. ArrayCompare\obj\Debug\_2.ArrayCompare.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\2. ArrayCompare\obj\Debug\_2.ArrayCompare.pdb

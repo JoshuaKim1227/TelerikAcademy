@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\bin\Debug\_14.Dictionary.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\bin\Debug\_14.Dictionary.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\14. Dictionary.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\_14.Dictionary.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\_14.Dictionary.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\bin\Debug\_14.Dictionary.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\bin\Debug\_14.Dictionary.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\14. Dictionary.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\_14.Dictionary.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\14. Dictionary\obj\Debug\_14.Dictionary.pdb

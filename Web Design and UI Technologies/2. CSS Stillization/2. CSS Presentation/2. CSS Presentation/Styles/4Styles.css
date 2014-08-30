@@ -1,0 +1,213 @@
+﻿#Wrapper {
+    width: 422px;
+    height: 386px;
+    font-family: Segoe UI;
+    border: 1px solid black;
+    box-shadow: 0 0 1px 1px white inset;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(../Images/CalcBorder.png);
+}
+
+#CalcIcon {
+    width: 12px;
+    height: 16px;
+    margin-top: 9px;
+    margin-left: 11px;
+}
+
+#Title {
+    position: relative;
+    top: -3px;
+    margin-left: 2px;
+    font-family: 'Segoe UI';
+    font-size: 12px;
+}
+
+#WinButtons {
+    position: relative;
+    top: -5px;
+    left: 222px;
+}
+
+#Menu {
+    background-image: url(../Images/Menu.png);
+    background-repeat: repeat-x;
+    width: 408px;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 15px;
+}
+
+    #Menu label {
+        margin-left: 8px;
+        font-size: 12px;
+    }
+
+        #Menu label:first-letter {
+            text-decoration: underline;
+        }
+
+#MainContent {
+    background-image: url(../Images/MainContent.png);
+    width: 408px;
+    height: 331px;
+    padding-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Display {
+    width: 383px;
+    height: 50px;
+    background-image: url(../Images/Display.png);
+    padding-right: 4px;
+    margin-top: 11px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 3px;
+    font-family: Consolas;
+    font-size: 23px;
+    text-align: right;
+    line-height: 62px;
+}
+
+#BinaryScreen {
+    width: 381px;
+    height: 56px;
+    padding-top: 3px;
+    padding-left: 6px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+    border-radius: 3px;
+    font-family: Consolas;
+    font-size: 13px;
+    word-spacing: 14px;
+    line-height: 13px;
+    color: #643976;
+    box-shadow: 0 0 1px 1px white inset;
+}
+
+.BinarySpacingLabel {
+    margin-left: 182px;
+    margin-right: 147px;
+}
+
+.LeftSidePanels {
+    width: 66px;
+    height: 83px;
+    padding: 3px;
+    margin-top: 5px;
+    margin-left: 11px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    font-size: 11px;
+    line-height: 17px;
+    color: #643976;
+}
+
+#ButtonsSection {
+    position: relative;
+    top: -93px;
+    margin-right: 9px;
+    padding-left: 5px;
+    float: right;
+    width: 308px;
+    height: 191px;
+}
+
+    #ButtonsSection Input[type="button"] {
+        background: -webkit-linear-gradient(#F0F6FB 0%, #E2EAF3 49%, #D5E0ED 50%, #D7E2EF 100%);
+        color: #1E395B;
+        width: 34px;
+        height: 27px;
+        font-family: Segoe UI;
+        font-size: 12px;
+        margin-top: 2px;
+        margin-bottom: 3px;
+        margin-left: 1px;
+        border: 1px solid #bababa;
+        border-radius: 2px;
+    }
+
+        #ButtonsSection Input[type="button"]:hover {
+            background: #fef4c5; /* Old browsers */
+            background: -moz-linear-gradient(top, #fef4c5 0%, #fce3c7 47%, #e6dd83 52%, #fbeb8d 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fef4c5), color-stop(47%,#fce3c7), color-stop(52%,#e6dd83), color-stop(100%,#fbeb8d)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #fef4c5 0%,#fce3c7 47%,#e6dd83 52%,#fbeb8d 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #fef4c5 0%,#fce3c7 47%,#e6dd83 52%,#fbeb8d 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, #fef4c5 0%,#fce3c7 47%,#e6dd83 52%,#fbeb8d 100%); /* IE10+ */
+            background: linear-gradient(to bottom, #fef4c5 0%,#fce3c7 47%,#e6dd83 52%,#fbeb8d 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fef4c5', endColorstr='#fbeb8d',GradientType=0 ); /* IE6-9 */
+            border: 1px solid #F7DD34;
+        }
+
+    #ButtonsSection Input.Disabled {
+        /* font-size: 15px; */
+        background: #D9E4F1;
+        border-color: #B4C2D1;
+    }
+
+    #ButtonsSection Input.Muted {
+        width: 34px;
+        height: 26px;
+        /* font-size: 11px; */
+        background: #d9e4f1;
+        border: 1px solid #aaa;
+        border-radius: 2px;
+        box-shadow: 0 0 1px 1px white inset;
+    }
+
+    #ButtonsSection Input.Numbers {
+        /* font-size: 15px; */
+        background: -webkit-linear-gradient(#F7FBFF 0%, #EDF3F8 49%, #E7EDF5 50%, #F3FBFF 100%);
+        background: -moz-linear-gradient(#F7FBFF 0%, #EDF3F8 49%, #E7EDF5 50%, #F3FBFF 100%);
+        background: -o-linear-gradient(#F7FBFF 0%, #EDF3F8 49%, #E7EDF5 50%, #F3FBFF 100%);
+        background: linear-gradient(#F7FBFF 0%, #EDF3F8 49%, #E7EDF5 50%, #F3FBFF 100%);
+    }
+
+    #ButtonsSection #ZeroButton {
+        width: 73px;
+    }
+
+    #ButtonsSection #EqualsButton {
+        position: relative;
+        font-size: 24px;
+        font-weight: bold;
+        top: 2px;
+        height: 59px;
+        margin: 0;
+        float: right;
+        display: inline;
+    }
+
+    #ButtonsSection #Arrow {
+        font-size: 14px;
+        line-height: 10px;
+    }
+
+    #ButtonsSection Input.AritmeticsButtons {
+        font-size: 11px;
+        margin-top: 1px;
+    }
+
+#LastButtonRows {
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+    .clearfix:after {
+        content: "";
+        display: block;
+        clear: both;
+        height: 0;
+    }

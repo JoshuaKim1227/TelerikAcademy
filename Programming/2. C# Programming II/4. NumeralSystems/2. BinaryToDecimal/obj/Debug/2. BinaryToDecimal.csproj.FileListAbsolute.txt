@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\2. BinaryToDecimal\bin\Debug\_2.BinaryToDecimal.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\2. BinaryToDecimal\bin\Debug\_2.BinaryToDecimal.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\2. BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\_2.BinaryToDecimal.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\_2.BinaryToDecimal.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\_2.BinaryToDecimal.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\_2.BinaryToDecimal.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\2. BinaryToDecimal\bin\Debug\_2.BinaryToDecimal.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\2. BinaryToDecimal\bin\Debug\_2.BinaryToDecimal.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\2. BinaryToDecimal\obj\Debug\2. BinaryToDecimal.csprojResolveAssemblyReference.cache

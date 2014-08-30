@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.pdb

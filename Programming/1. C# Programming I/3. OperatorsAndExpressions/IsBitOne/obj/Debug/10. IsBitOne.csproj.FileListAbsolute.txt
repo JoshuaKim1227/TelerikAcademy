@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\bin\Debug\IsBitOne.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\bin\Debug\IsBitOne.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\bin\Debug\IsBitOne.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\obj\Debug\10. IsBitOne.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\obj\Debug\IsBitOne.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsBitOne\obj\Debug\IsBitOne.pdb

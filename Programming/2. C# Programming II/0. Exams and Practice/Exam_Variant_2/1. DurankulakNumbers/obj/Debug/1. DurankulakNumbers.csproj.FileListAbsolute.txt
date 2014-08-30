@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\1. DurankulakNumbers\bin\Debug\_1.DurankulakNumbers.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\1. DurankulakNumbers\bin\Debug\_1.DurankulakNumbers.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\1. DurankulakNumbers\obj\Debug\1. DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\1. DurankulakNumbers\obj\Debug\_1.DurankulakNumbers.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\1. DurankulakNumbers\obj\Debug\_1.DurankulakNumbers.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\1. DurankulakNumbers\obj\Debug\_1.DurankulakNumbers.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\1. DurankulakNumbers\obj\Debug\_1.DurankulakNumbers.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\1. DurankulakNumbers\bin\Debug\_1.DurankulakNumbers.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\1. DurankulakNumbers\bin\Debug\_1.DurankulakNumbers.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\1. DurankulakNumbers\obj\Debug\1. DurankulakNumbers.csprojResolveAssemblyReference.cache

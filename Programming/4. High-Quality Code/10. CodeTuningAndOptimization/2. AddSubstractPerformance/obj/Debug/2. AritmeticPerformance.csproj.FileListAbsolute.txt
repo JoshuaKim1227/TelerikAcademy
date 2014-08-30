@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\2. AddSubstractPerformance\bin\Debug\_2.AddSubstractPerformance.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\2. AddSubstractPerformance\bin\Debug\_2.AddSubstractPerformance.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\2. AddSubstractPerformance\obj\Debug\2. AritmeticPerformance.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\2. AddSubstractPerformance\obj\Debug\_2.AddSubstractPerformance.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\2. AddSubstractPerformance\obj\Debug\_2.AddSubstractPerformance.pdb

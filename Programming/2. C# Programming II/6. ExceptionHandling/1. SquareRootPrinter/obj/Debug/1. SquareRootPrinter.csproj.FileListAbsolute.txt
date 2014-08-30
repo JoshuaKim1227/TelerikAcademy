@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\1. SquareRootPrinter\bin\Debug\_1.SquareRootPrinter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\1. SquareRootPrinter\bin\Debug\_1.SquareRootPrinter.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\1. SquareRootPrinter.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\_1.SquareRootPrinter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\_1.SquareRootPrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\_1.SquareRootPrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\_1.SquareRootPrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\1. SquareRootPrinter\bin\Debug\_1.SquareRootPrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\1. SquareRootPrinter\bin\Debug\_1.SquareRootPrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\1. SquareRootPrinter\obj\Debug\1. SquareRootPrinter.csprojResolveAssemblyReference.cache

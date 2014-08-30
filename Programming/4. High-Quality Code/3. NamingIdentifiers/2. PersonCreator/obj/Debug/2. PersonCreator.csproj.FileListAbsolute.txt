@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\2. PersonCreator\bin\Debug\_2.PersonCreator.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\2. PersonCreator\bin\Debug\_2.PersonCreator.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\2. PersonCreator\obj\Debug\_2.PersonCreator.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\2. PersonCreator\obj\Debug\_2.PersonCreator.pdb

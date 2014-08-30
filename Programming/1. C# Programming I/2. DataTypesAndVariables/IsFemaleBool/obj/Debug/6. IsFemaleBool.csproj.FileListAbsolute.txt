@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsFemaleBool\bin\Debug\IsFemaleBool.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsFemaleBool\bin\Debug\IsFemaleBool.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsFemaleBool\bin\Debug\IsFemaleBool.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsFemaleBool\obj\Debug\IsFemaleBool.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsFemaleBool\obj\Debug\IsFemaleBool.pdb

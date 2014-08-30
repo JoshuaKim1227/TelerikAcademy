@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\bin\Debug\_4.DescendingSort.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\bin\Debug\_4.DescendingSort.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\bin\Debug\_4.DescendingSort.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\obj\Debug\4. DescendingSort.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\obj\Debug\_4.DescendingSort.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\4. DescendingSort\obj\Debug\_4.DescendingSort.pdb

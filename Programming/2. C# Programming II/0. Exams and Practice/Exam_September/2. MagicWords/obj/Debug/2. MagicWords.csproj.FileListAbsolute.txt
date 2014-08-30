@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\2. MagicWords\bin\Debug\_2.MagicWords.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\2. MagicWords\bin\Debug\_2.MagicWords.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\2. MagicWords\obj\Debug\2. MagicWords.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\2. MagicWords\obj\Debug\_2.MagicWords.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\2. MagicWords\obj\Debug\_2.MagicWords.pdb

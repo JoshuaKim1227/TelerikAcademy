@@ -1,0 +1,115 @@
+﻿body {
+    background-color: #343434;
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#wrapper {
+    background-color: #1E3741;
+    width: 1032px;
+    height: 550px;
+    border: 2px solid #337D8F;
+    border-radius: 8px;
+    margin: 0px auto;
+}
+
+    #wrapper a {
+        color: #90A9B3;
+        text-decoration: none;
+        padding-top: 13px;
+        padding-bottom: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+#navBar ul {
+    background-color: #4B5F67;
+    float: left;
+    display: inline-block;
+    list-style: none;
+    line-height: 51px;
+    margin-top: 13px;
+    padding-left: 0px;
+}
+
+#navBar li {
+    text-align: center;
+    float: left;
+    height: 52px;
+    border-right: 2px solid #1E3741;
+}
+
+    #navBar li:hover {
+        text-decoration: underline;
+    }
+
+#navBar ul #news a {
+    background-color: #1E3741;
+    color: white;
+    width: 128px;
+}
+
+#navBar ul #sport {
+    width: 98px;
+}
+
+#navBar ul #emissions {
+    width: 111px;
+}
+
+#navBar ul #interesting {
+    width: 149px;
+}
+
+#navBar ul #meReporter {
+    width: 187px;
+}
+
+#navBar ul #thisMorning {
+    width: 152px;
+}
+
+#newsSection {
+    float: left;
+    width: 396px;
+}
+
+    #newsSection ul {
+        float: left;
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+    }
+
+        #newsSection ul li {
+            width: 396px;
+            border-bottom: 1px solid gray;
+            font-size: 21px;
+        }
+
+            #newsSection ul li:first-child a {
+                background-color: #00968C;
+                color: white;
+            }
+
+            #newsSection ul li:last-child {
+                padding-bottom: 10px;
+                border-bottom: none;
+            }
+
+            #newsSection ul li a {
+                display: block;
+                margin: 0px;
+                padding-top: 15px;
+                padding-bottom: 18px;
+                padding-left: 13px;
+                padding-right: 37px;
+        }
+
+    #newsSection #imageSection {
+        float: left;
+    }
+
+#videoSection img {
+    float: left;
+}

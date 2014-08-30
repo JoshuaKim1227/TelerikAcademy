@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\11. BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\11. BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.pdb

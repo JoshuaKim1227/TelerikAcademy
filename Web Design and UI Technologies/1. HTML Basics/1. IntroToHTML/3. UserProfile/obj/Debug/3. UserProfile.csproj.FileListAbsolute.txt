@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\3. UserProfile\bin\_3.UserProfile.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\3. UserProfile\bin\_3.UserProfile.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\3. UserProfile\obj\Debug\_3.UserProfile.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\3. UserProfile\obj\Debug\_3.UserProfile.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\3. UserProfile\bin\_3.UserProfile.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\3. UserProfile\bin\_3.UserProfile.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\3. UserProfile\obj\Debug\_3.UserProfile.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\3. UserProfile\obj\Debug\_3.UserProfile.pdb

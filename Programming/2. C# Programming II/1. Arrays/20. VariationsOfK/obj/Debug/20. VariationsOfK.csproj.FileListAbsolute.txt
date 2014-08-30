@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\20. VariationsOfK\obj\Debug\20. VariationsOfK.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\20. VariationsOfK\bin\Debug\_20.VariationsOfK.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\20. VariationsOfK\bin\Debug\_20.VariationsOfK.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\20. VariationsOfK\obj\Debug\_20.VariationsOfK.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\20. VariationsOfK\obj\Debug\_20.VariationsOfK.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\20. VariationsOfK\bin\Debug\_20.VariationsOfK.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\20. VariationsOfK\bin\Debug\_20.VariationsOfK.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\20. VariationsOfK\obj\Debug\20. VariationsOfK.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\20. VariationsOfK\obj\Debug\_20.VariationsOfK.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\20. VariationsOfK\obj\Debug\_20.VariationsOfK.pdb

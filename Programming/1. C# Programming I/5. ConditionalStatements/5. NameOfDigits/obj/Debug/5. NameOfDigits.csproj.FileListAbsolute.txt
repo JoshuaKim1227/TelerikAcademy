@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\5. NameOfDigits\bin\Debug\_5.NameOfDigits.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\5. NameOfDigits\bin\Debug\_5.NameOfDigits.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\5. NameOfDigits\bin\Debug\_5.NameOfDigits.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\5. NameOfDigits\obj\Debug\_5.NameOfDigits.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\5. NameOfDigits\obj\Debug\_5.NameOfDigits.pdb

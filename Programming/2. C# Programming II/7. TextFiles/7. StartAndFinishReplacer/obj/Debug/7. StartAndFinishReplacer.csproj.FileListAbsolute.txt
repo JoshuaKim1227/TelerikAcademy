@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\7. StartAndFinishReplacer\bin\Debug\_7.StartAndFinishReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\7. StartAndFinishReplacer\bin\Debug\_7.StartAndFinishReplacer.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\7. StartAndFinishReplacer\obj\Debug\7. StartAndFinishReplacer.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\7. StartAndFinishReplacer\obj\Debug\_7.StartAndFinishReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\7. StartAndFinishReplacer\obj\Debug\_7.StartAndFinishReplacer.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\7. StartAndFinishReplacer\obj\Debug\_7.StartAndFinishReplacer.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\7. StartAndFinishReplacer\obj\Debug\_7.StartAndFinishReplacer.pdb

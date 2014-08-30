@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\11. Polynomials\bin\Debug\_11.Polynomials.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\11. Polynomials\bin\Debug\_11.Polynomials.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\11. Polynomials\obj\Debug\_11.Polynomials.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\11. Polynomials\obj\Debug\_11.Polynomials.pdb

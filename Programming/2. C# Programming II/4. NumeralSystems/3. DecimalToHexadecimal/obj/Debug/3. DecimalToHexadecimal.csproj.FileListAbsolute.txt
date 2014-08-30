@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\3. DecimalToHexadecimal\bin\Debug\_3.DecimalToHexadecimal.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\3. DecimalToHexadecimal\bin\Debug\_3.DecimalToHexadecimal.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\_3.DecimalToHexadecimal.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\_3.DecimalToHexadecimal.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\3. DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\_3.DecimalToHexadecimal.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\_3.DecimalToHexadecimal.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\3. DecimalToHexadecimal\bin\Debug\_3.DecimalToHexadecimal.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\3. DecimalToHexadecimal\bin\Debug\_3.DecimalToHexadecimal.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\3. DecimalToHexadecimal\obj\Debug\3. DecimalToHexadecimal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\5. BitArray64\bin\Debug\_5.BitArray64.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\5. BitArray64\bin\Debug\_5.BitArray64.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\5. BitArray64\obj\Debug\5. BitArray64.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\5. BitArray64\obj\Debug\_5.BitArray64.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\6. CommonTypeSystem\5. BitArray64\obj\Debug\_5.BitArray64.pdb

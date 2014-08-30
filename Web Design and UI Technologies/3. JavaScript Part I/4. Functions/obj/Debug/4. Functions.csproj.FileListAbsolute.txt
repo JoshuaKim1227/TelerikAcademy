@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Functions\bin\_4.Functions.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Functions\bin\_4.Functions.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Functions\obj\Debug\4. Functions.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Functions\obj\Debug\_4.Functions.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Functions\obj\Debug\_4.Functions.pdb

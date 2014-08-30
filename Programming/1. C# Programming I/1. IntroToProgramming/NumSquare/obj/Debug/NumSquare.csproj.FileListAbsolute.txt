@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\NumSquare\bin\Debug\NumSquare.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\NumSquare\bin\Debug\NumSquare.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\NumSquare\bin\Debug\NumSquare.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\NumSquare\obj\Debug\NumSquare.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\NumSquare\obj\Debug\NumSquare.pdb

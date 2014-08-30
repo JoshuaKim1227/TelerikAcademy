@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\2. AcademyEcosystem\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\2. AcademyEcosystem\bin\Debug\AcademyEcosystem.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\2. AcademyEcosystem\bin\Debug\AcademyEcosystem.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\2. AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\2. AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb

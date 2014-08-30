@@ -1,0 +1,3 @@
+As an introduction, this program shows how the 
+StringBuilder type is used to build up a larger 
+buffer of characters. You can call the Append method on the StringBuilder instance to add more and more data.

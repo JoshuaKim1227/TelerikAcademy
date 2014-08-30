@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\9. ForbiddenWords\bin\Debug\_9.ForbiddenWords.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\9. ForbiddenWords\bin\Debug\_9.ForbiddenWords.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\9. ForbiddenWords\obj\Debug\_9.ForbiddenWords.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\9. ForbiddenWords\obj\Debug\_9.ForbiddenWords.pdb

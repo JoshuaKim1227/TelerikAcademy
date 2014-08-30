@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\bin\Debug\_4.LongestSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\bin\Debug\_4.LongestSequence.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\obj\Debug\04. LongestSequence.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\4. LongestSequence\obj\Debug\_4.LongestSequence.pdb

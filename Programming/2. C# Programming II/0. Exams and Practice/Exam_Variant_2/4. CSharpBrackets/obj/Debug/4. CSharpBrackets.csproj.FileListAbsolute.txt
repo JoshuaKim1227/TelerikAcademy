@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\4. CSharpBrackets\bin\Debug\_4.CSharpBrackets.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\4. CSharpBrackets\bin\Debug\_4.CSharpBrackets.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\4. CSharpBrackets\obj\Debug\_4.CSharpBrackets.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\4. CSharpBrackets\obj\Debug\_4.CSharpBrackets.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\4. CSharpBrackets\obj\Debug\4. CSharpBrackets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\3. MathPerformance\bin\Debug\_3.MathPerformance.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\3. MathPerformance\bin\Debug\_3.MathPerformance.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\3. MathPerformance\obj\Debug\_3.MathPerformance.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\10. CodeTuningAndOptimization\3. MathPerformance\obj\Debug\_3.MathPerformance.pdb

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\obj\Debug\6. QuadraticEquationSolver.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb

@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.pdb

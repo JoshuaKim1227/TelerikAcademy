@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\bin\Debug\_4.SubstringFinder.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\bin\Debug\_4.SubstringFinder.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\obj\Debug\_4.SubstringFinder.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\obj\Debug\_4.SubstringFinder.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\obj\Debug\4. SubstringFinder.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\obj\Debug\_4.SubstringFinder.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\4. SubstringFinder\obj\Debug\_4.SubstringFinder.pdb

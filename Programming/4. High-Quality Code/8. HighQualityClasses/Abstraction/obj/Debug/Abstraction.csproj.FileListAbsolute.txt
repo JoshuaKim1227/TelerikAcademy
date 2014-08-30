@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\8. HighQualityClasses\Abstraction\bin\Debug\Abstraction.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\8. HighQualityClasses\Abstraction\bin\Debug\Abstraction.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\8. HighQualityClasses\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\8. HighQualityClasses\Abstraction\obj\Debug\Abstraction.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\8. HighQualityClasses\Abstraction\obj\Debug\Abstraction.pdb

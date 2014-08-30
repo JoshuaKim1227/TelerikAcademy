@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.pdb

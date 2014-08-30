@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-numbers">Numbers (separated by space): </label>
+	<input type="text" id="tb-numbers" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var tb = document.getElementById("tb-numbers");
+            var value = tb.value;
+            var numArrayStr = value.split(" ");
+            var numbersArray = new Array(numArrayStr.length);
+
+            var smallestNum = Number.MAX_VALUE;
+            var indexOfSmallest;
+
+            var holderArray = new Array();
+
+            for (var index = 0; index < numArrayStr.length; index++) {
+                numbersArray[index] = parseInt(numArrayStr[index]);
+            }
+
+            for (var indexToPut = 0; indexToPut < numbersArray.length; indexToPut++) {
+                for (var numSearcher = indexToPut; numSearcher < numbersArray.length; numSearcher++) {
+                    if (smallestNum > numbersArray[numSearcher]) {
+                        smallestNum = numbersArray[numSearcher];
+                        indexOfSmallest = numSearcher;
+                    }
+                }
+
+                var exchangeValueArray = numbersArray.splice(indexToPut, 1, smallestNum);
+                var exchangeValue = exchangeValueArray[0];
+                numbersArray.splice(indexOfSmallest, 1, exchangeValue);
+
+                smallestNum = Number.MAX_VALUE;
+            }
+
+            jsConsole.writeLine(numbersArray);
+        }
+    </script>
+</body>
+</html>

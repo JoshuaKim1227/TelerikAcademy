@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\0. Practice\bin\Debug\_0.Practice.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\0. Practice\bin\Debug\_0.Practice.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\0. Practice\obj\Debug\_0.Practice.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\0. Practice\obj\Debug\_0.Practice.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\0. Practice\obj\Debug\_0.Practice.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\0. Practice\obj\Debug\_0.Practice.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\0. Practice\bin\Debug\_0.Practice.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\0. Practice\bin\Debug\_0.Practice.pdb

@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\bin\Debug\_13.WordsReverser.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\bin\Debug\_13.WordsReverser.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\13. WordsReverser.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\_13.WordsReverser.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\_13.WordsReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\bin\Debug\_13.WordsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\bin\Debug\_13.WordsReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\13. WordsReverser.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\_13.WordsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\13. WordsReverser\obj\Debug\_13.WordsReverser.pdb

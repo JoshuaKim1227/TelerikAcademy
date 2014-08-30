@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\bin\Debug\Card.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\bin\Debug\Card.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\bin\Debug\Card.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\obj\Debug\Card.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\Card\obj\Debug\Card.pdb

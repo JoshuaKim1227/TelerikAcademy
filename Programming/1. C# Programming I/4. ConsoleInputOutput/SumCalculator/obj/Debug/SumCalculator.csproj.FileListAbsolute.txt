@@ -1,0 +1,1 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumCalculator\bin\Debug\SumCalculator.exe.config

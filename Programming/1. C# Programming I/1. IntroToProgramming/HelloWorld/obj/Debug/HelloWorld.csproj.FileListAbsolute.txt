@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

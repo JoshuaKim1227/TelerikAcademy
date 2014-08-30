@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-firstNum">First Number: </label>
+	<input type="text" id="tb-firstNum" />
+	<label for="tb-secondNum">Second Number: </label>
+	<input type="text" id="tb-secondNum" />
+	<label for="tb-thirdNum">Third Number: </label>
+	<input type="text" id="tb-thirdNum" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var number = new Array();
+
+            number[0] = jsConsole.readFloat("#tb-firstNum");
+            number[1] = jsConsole.readFloat("#tb-secondNum");
+            number[2] = jsConsole.readFloat("#tb-thirdNum");
+
+            var minusesCounter = 0
+
+            for (var count = 0; count < number.length; count++) {
+                if (number[count] < 0) {
+                    minusesCounter++;
+                }
+            }
+
+            if (minusesCounter == 0) {
+                jsConsole.writeLine("The result is: +");
+            }
+            else if (minusesCounter == 1) {
+                jsConsole.writeLine("The result is: -");
+            }
+            else if (minusesCounter == 2) {
+                jsConsole.writeLine("The result is: +");
+            }
+            else if (minusesCounter == 3) {
+                jsConsole.writeLine("The result is: -");
+            }
+        }
+    </script>
+</body>
+</html>

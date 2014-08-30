@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\4. BinSearchMethod\bin\Debug\_4.BinSearchMethod.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\4. BinSearchMethod\bin\Debug\_4.BinSearchMethod.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\4. BinSearchMethod.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\_4.BinSearchMethod.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\_4.BinSearchMethod.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\_4.BinSearchMethod.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\_4.BinSearchMethod.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\4. BinSearchMethod\bin\Debug\_4.BinSearchMethod.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\4. BinSearchMethod\bin\Debug\_4.BinSearchMethod.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\4. BinSearchMethod\obj\Debug\4. BinSearchMethod.csprojResolveAssemblyReference.cache

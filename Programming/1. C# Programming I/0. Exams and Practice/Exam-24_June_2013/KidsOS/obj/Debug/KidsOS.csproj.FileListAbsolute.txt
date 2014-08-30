@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\KidsOS\bin\Debug\KidsOS.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\KidsOS\bin\Debug\KidsOS.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\KidsOS\obj\Debug\KidsOS.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\KidsOS\obj\Debug\KidsOS.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-24_June_2013\KidsOS\obj\Debug\KidsOS.pdb

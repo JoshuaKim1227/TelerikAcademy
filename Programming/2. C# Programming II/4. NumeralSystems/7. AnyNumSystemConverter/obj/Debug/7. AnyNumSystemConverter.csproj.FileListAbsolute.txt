@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\7. AnyNumSystemConverter\bin\Debug\_7.AnyNumSystemConverter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\7. AnyNumSystemConverter\bin\Debug\_7.AnyNumSystemConverter.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\7. AnyNumSystemConverter\obj\Debug\_7.AnyNumSystemConverter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\4. NumeralSystems\7. AnyNumSystemConverter\obj\Debug\_7.AnyNumSystemConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\7. AnyNumSystemConverter\obj\Debug\_7.AnyNumSystemConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\4. NumeralSystems\7. AnyNumSystemConverter\obj\Debug\_7.AnyNumSystemConverter.pdb

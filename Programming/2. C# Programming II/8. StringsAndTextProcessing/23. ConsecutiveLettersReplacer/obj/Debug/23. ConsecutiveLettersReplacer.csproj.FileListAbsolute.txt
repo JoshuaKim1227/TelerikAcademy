@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\bin\Debug\_23.ConsecutiveLettersReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\bin\Debug\_23.ConsecutiveLettersReplacer.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\obj\Debug\_23.ConsecutiveLettersReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\obj\Debug\_23.ConsecutiveLettersReplacer.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\bin\Debug\_23.ConsecutiveLettersReplacer.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\bin\Debug\_23.ConsecutiveLettersReplacer.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\obj\Debug\_23.ConsecutiveLettersReplacer.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\23. ConsecutiveLettersReplacer\obj\Debug\_23.ConsecutiveLettersReplacer.pdb

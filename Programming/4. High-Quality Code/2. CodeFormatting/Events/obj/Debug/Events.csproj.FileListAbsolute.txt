@@ -1,0 +1,8 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\bin\Debug\Events.exe.config
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\bin\Debug\Events.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\bin\Debug\Events.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\bin\Debug\PowerCollections.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\bin\Debug\PowerCollections.xml
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\obj\Debug\Events.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\2. CodeFormatting\Events\obj\Debug\Events.pdb

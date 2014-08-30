@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\4. OOP_Principles_I\1. School\obj\Debug\1. School.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\4. OOP_Principles_I\1. School\bin\Debug\_1.School.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\4. OOP_Principles_I\1. School\bin\Debug\_1.School.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\4. OOP_Principles_I\1. School\obj\Debug\_1.School.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\4. OOP_Principles_I\1. School\obj\Debug\_1.School.pdb

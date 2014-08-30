@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\bin\Debug\_8.GreatestCommonDivisor.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\obj\Debug\8. GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\bin\Debug\_8.GreatestCommonDivisor.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\bin\Debug\_8.GreatestCommonDivisor.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\obj\Debug\_8.GreatestCommonDivisor.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\8. GreatestCommonDivisor\obj\Debug\_8.GreatestCommonDivisor.pdb

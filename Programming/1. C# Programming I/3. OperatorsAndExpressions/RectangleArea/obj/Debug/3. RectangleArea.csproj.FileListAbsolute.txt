@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\obj\Debug\3. RectangleArea.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\RectangleArea\obj\Debug\RectangleArea.pdb

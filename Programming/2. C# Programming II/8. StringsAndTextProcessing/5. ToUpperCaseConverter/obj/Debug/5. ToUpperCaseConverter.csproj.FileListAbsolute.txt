@@ -1,0 +1,9 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\bin\Debug\_5.ToUpperCaseConverter.exe.config
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\bin\Debug\_5.ToUpperCaseConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\bin\Debug\_5.ToUpperCaseConverter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\obj\Debug\_5.ToUpperCaseConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\obj\Debug\_5.ToUpperCaseConverter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\obj\Debug\5. ToUpperCaseConverter.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\bin\Debug\_5.ToUpperCaseConverter.exe.config
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\obj\Debug\_5.ToUpperCaseConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\5. ToUpperCaseConverter\obj\Debug\_5.ToUpperCaseConverter.pdb

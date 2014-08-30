@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\bin\Debug\_12.NumberMatrix.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\bin\Debug\_12.NumberMatrix.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\bin\Debug\_12.NumberMatrix.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\obj\Debug\12. NumberMatrix.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\obj\Debug\_12.NumberMatrix.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\12. NumberMatrix\obj\Debug\_12.NumberMatrix.pdb

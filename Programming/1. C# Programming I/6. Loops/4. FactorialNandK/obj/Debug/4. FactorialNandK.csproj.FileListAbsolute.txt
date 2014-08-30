@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\bin\Debug\_4.FactorialNandK.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\bin\Debug\_4.FactorialNandK.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\bin\Debug\_4.FactorialNandK.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\obj\Debug\4. FactorialNandK.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\obj\Debug\_4.FactorialNandK.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\6. Loops\4. FactorialNandK\obj\Debug\_4.FactorialNandK.pdb

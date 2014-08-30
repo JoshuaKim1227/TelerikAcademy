@@ -1,0 +1,9 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\bin\Debug\_11.NumberConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\bin\Debug\_11.NumberConverter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\obj\Debug\_11.NumberConverter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\obj\Debug\_11.NumberConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\obj\Debug\_11.NumberConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\obj\Debug\_11.NumberConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\bin\Debug\_11.NumberConverter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\bin\Debug\_11.NumberConverter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\11. NumberConverter\obj\Debug\11. NumberConverter.csprojResolveAssemblyReference.cache

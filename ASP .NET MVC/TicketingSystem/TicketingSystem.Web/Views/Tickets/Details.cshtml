@@ -1,0 +1,42 @@
+﻿@model TicketingSystem.Web.Models.DetailsTicketViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h3>@Model.Title!</h3>
+<h4>Category: @Model.CategoryName</h4>
+<br />
+<div class="col-md-4">
+    <p><strong>Author: </strong>@Model.AuthorName</p>
+    <p><strong>Priority: </strong>@Model.Priority</p>
+</div>
+@if (!string.IsNullOrEmpty(Model.ScreenshotURL))
+{
+    <div class="col-md-4">
+        <img src="@Model.ScreenshotURL" width="320" />
+    </div>
+}
+@if (!string.IsNullOrEmpty(Model.Description))
+{
+    <div class="col-md-4">
+        <p><strong>Description:</strong> @Model.Description</p>
+    </div>
+}
+<div class="clearfix"></div>
+<div id="Comments">
+    @foreach (var comment in Model.Comments)
+    {
+        <p><strong>@comment.Author:</strong> @comment.Content</p>
+    }
+    @if (User.Identity.IsAuthenticated)
+    {
+        @*using (Ajax.BeginForm("PostComment", new AjaxOptions { HttpMethod = "Post", InsertionMode = InsertionMode.InsertAfter, UpdateTargetId = "Comments", OnFailure = "commentPostFailure" }))
+        {
+            @Html.TextArea("content")
+            @Html.AntiForgeryToken()
+            @Html.Hidden("")
+            <input type="submit"  value="Submit comment"/>
+        }*@
+    }
+</div>

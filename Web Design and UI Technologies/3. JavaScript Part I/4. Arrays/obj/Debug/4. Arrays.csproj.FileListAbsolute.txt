@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Arrays\bin\_4.Arrays.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Arrays\bin\_4.Arrays.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Arrays\obj\Debug\4. Arrays.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Arrays\obj\Debug\_4.Arrays.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\4. Arrays\obj\Debug\_4.Arrays.pdb

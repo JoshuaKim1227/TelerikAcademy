@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\bin\Debug\_5.WorkdaysCalculator.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\bin\Debug\_5.WorkdaysCalculator.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\5. WorkdaysCalculator.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\_5.WorkdaysCalculator.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\_5.WorkdaysCalculator.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\_5.WorkdaysCalculator.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\_5.WorkdaysCalculator.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\bin\Debug\_5.WorkdaysCalculator.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\bin\Debug\_5.WorkdaysCalculator.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\5. WorkdaysCalculator\obj\Debug\5. WorkdaysCalculator.csprojResolveAssemblyReference.cache

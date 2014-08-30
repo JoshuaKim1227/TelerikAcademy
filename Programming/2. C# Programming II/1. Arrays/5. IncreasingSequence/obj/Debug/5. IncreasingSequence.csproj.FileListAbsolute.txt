@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\obj\Debug\5. IncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.pdb

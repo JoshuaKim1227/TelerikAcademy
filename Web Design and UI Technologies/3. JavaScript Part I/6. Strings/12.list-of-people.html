@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JS Console - Example</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        #number {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div data-type="template" id="list-item"><strong>-{name}-</strong> <span>-{age}-</span></div>
+    <a href="#" onclick="onProcessButtonClick()">Process</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            // <strong>-{name}-</strong> <span>-{age}-</span>
+            var template = document.getElementById("list-item").innerHTML;
+            var people = [
+                { name: "Peter", age: 14 },
+                { name: "Gosho", age: 17 },
+                { name: "Pencho", age: 23 },
+                { name: "Gancho", age: 25 },
+                { name: "Kircho", age: 21 }
+            ];
+
+            function generateList(people, template) {
+                var listItems = [];
+                var reName = /-{name}-/;
+                var reAge = /-{age}-/;
+                var list = [];
+
+                for (var index = 0; index < people.length; index++) {
+                    if (index == 0) {
+                        list.push("<ul><li>" + template.replace(reName, people[index].name) + "</li>");
+                        list[index] = list[index].replace(reAge, people[index].age);
+                    }
+                    else if (index == people.length - 1) {
+                        list.push("<li>" + template.replace(reName, people[index].name) + "</li></ul>");
+                        list[index] = list[index].replace(reAge, people[index].age);
+                    }
+                    else {
+                        list.push("<li>" + template.replace(reName, people[index].name) + "</li>");
+                        list[index] = list[index].replace(reAge, people[index].age);
+                    }
+
+                }
+
+                list = list.join("");
+                return list;
+            }
+
+            var resultList = generateList(people, template);
+
+            jsConsole.writeLine(resultList);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\InCircleOutRectangle\bin\Debug\InCircleOutRectangle.exe.config

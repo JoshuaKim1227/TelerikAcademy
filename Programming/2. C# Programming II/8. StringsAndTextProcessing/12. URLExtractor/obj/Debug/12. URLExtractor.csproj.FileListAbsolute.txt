@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\bin\Debug\_12.URLExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\bin\Debug\_12.URLExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\12. URLExtractor.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\_12.URLExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\_12.URLExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\bin\Debug\_12.URLExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\bin\Debug\_12.URLExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\12. URLExtractor.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\_12.URLExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\12. URLExtractor\obj\Debug\_12.URLExtractor.pdb

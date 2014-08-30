@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">Enter text: </label>
+	<input type="text" id="tb-text" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var text = jsConsole.read("#tb-text");
+
+            function reverseString(text) {
+                var reversed = "";
+
+                for (var index = text.length - 1; index >= 0; index--) {
+                    reversed += text[index];
+                }
+
+                return reversed;
+            }
+
+            jsConsole.writeLine(reverseString(text));
+        }
+    </script>
+</body>
+</html>

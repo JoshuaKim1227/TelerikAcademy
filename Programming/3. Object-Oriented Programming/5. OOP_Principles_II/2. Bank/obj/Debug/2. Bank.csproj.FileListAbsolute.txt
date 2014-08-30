@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\2. Bank\bin\Debug\_2.Bank.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\2. Bank\bin\Debug\_2.Bank.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\2. Bank\obj\Debug\_2.Bank.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\2. Bank\obj\Debug\_2.Bank.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\5. OOP_Principles_II\2. Bank\obj\Debug\2. Bank.csprojResolveAssemblyReference.cache

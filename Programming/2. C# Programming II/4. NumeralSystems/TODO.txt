@@ -1,0 +1,2 @@
+Task 3 Partially (Convert negative dec to hex)
+Task 7 Not Mine (Only went through it)

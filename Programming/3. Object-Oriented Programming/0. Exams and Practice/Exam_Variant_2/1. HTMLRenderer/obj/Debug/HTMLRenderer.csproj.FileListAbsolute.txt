@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\1. HTMLRenderer\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\1. HTMLRenderer\bin\Debug\HTMLRenderer.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\1. HTMLRenderer\bin\Debug\HTMLRenderer.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\1. HTMLRenderer\obj\Debug\HTMLRenderer.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_2\1. HTMLRenderer\obj\Debug\HTMLRenderer.pdb

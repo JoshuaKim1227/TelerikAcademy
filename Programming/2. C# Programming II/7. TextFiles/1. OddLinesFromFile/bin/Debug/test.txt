@@ -1,0 +1,13 @@
+The pumped-storage power plant 
+will operate by using two reservoirs 
+to generate power, an upper and a lower. 
+During periods of high energy demand, 
+water is released from the upper reservoir 
+and sent to the power station to generate 
+electricity. After power generation, 
+the water is discharged into the lower reservoir. 
+When energy demand is low, such as at night, 
+water is pumped back up to the upper reservoir 
+as stored energy. The process repeats as needed 
+and the pump-generators serve the dual-role of 
+both pumping and generating electricity.

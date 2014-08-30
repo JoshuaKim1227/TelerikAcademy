@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\5. UsingObjects\bin\_5.UsingObjects.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\5. UsingObjects\bin\_5.UsingObjects.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\5. UsingObjects\obj\Debug\_5.UsingObjects.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\5. UsingObjects\obj\Debug\_5.UsingObjects.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\5. UsingObjects\obj\Debug\5. UsingObjects.csprojResolveAssemblyReference.cache

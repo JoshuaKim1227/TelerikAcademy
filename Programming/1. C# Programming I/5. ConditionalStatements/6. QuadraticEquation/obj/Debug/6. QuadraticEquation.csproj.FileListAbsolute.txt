@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb

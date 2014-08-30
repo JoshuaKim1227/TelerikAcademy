@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\3. FileReader\bin\Debug\_3.FileReader.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\3. FileReader\bin\Debug\_3.FileReader.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\3. FileReader\obj\Debug\_3.FileReader.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\3. FileReader\obj\Debug\_3.FileReader.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\3. FileReader\obj\Debug\_3.FileReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\3. FileReader\obj\Debug\_3.FileReader.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\3. FileReader\bin\Debug\_3.FileReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\3. FileReader\bin\Debug\_3.FileReader.pdb

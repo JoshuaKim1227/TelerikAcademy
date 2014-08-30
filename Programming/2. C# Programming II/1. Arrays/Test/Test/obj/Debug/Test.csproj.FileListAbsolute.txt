@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\bin\Debug\Test.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\bin\Debug\Test.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\bin\Debug\Test.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\obj\Debug\Test.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\obj\Debug\Test.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

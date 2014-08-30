@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\SemanticHTML\SemanticHTML\bin\SemanticHTML.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\SemanticHTML\SemanticHTML\bin\SemanticHTML.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.pdb

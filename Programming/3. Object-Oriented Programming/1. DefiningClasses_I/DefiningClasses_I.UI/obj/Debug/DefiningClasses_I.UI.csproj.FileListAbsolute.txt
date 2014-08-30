@@ -1,0 +1,14 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.UI.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.UI.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.Common.dll
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.Common.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.UI.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.UI.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.Common.dll
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\bin\Debug\DefiningClasses_I.Common.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\1. DefiningClasses_I\DefiningClasses_I.UI\obj\Debug\DefiningClasses_I.UI.csprojResolveAssemblyReference.cache

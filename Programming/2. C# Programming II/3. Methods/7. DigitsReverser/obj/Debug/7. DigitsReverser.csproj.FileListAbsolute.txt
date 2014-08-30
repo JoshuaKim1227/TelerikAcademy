@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\7. DigitsReverser\obj\Debug\7. DigitsReverser.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\bin\Debug\_7.DigitsReverser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\obj\Debug\7. DigitsReverser.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\7. DigitsReverser\obj\Debug\_7.DigitsReverser.pdb

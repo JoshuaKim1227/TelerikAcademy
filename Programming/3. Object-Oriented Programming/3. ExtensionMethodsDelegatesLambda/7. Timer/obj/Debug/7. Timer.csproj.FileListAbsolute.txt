@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\7. Timer\bin\Debug\_7.Timer.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\7. Timer\bin\Debug\_7.Timer.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\7. Timer\obj\Debug\7. Timer.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\7. Timer\obj\Debug\_7.Timer.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\7. Timer\obj\Debug\_7.Timer.pdb

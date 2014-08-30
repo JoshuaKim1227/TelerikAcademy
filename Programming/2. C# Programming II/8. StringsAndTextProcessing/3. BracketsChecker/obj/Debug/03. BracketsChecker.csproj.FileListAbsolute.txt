@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\3. BracketsChecker\bin\Debug\_3.BracketsChecker.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\3. BracketsChecker\bin\Debug\_3.BracketsChecker.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\3. BracketsChecker\obj\Debug\_3.BracketsChecker.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\3. BracketsChecker\obj\Debug\_3.BracketsChecker.pdb

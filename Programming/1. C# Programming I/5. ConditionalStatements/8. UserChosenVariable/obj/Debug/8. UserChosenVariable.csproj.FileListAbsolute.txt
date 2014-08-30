@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\8. UserChosenVariable\bin\Debug\_8.UserChosenVariable.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\8. UserChosenVariable\bin\Debug\_8.UserChosenVariable.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\8. UserChosenVariable\bin\Debug\_8.UserChosenVariable.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\8. UserChosenVariable\obj\Debug\_8.UserChosenVariable.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\8. UserChosenVariable\obj\Debug\_8.UserChosenVariable.pdb

@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\3. StudentsByNames\bin\Debug\_3.StudentsByNames.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\3. StudentsByNames\bin\Debug\_3.StudentsByNames.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\3. StudentsByNames\obj\Debug\3. StudentsByNames.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\3. StudentsByNames\obj\Debug\_3.StudentsByNames.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\3. StudentsByNames\obj\Debug\_3.StudentsByNames.pdb

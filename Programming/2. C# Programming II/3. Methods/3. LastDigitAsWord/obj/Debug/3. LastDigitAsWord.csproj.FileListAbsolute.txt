@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\3. LastDigitAsWord\bin\Debug\_3.LastDigitAsWord.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\3. LastDigitAsWord\bin\Debug\_3.LastDigitAsWord.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\3. LastDigitAsWord\obj\Debug\3. LastDigitAsWord.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\3. LastDigitAsWord\obj\Debug\_3.LastDigitAsWord.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\3. LastDigitAsWord\obj\Debug\_3.LastDigitAsWord.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\3. LastDigitAsWord\obj\Debug\_3.LastDigitAsWord.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\3. LastDigitAsWord\obj\Debug\_3.LastDigitAsWord.pdb

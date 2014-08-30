@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\bin\Debug\_22.WordsInSentenceExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\bin\Debug\_22.WordsInSentenceExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\_22.WordsInSentenceExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\_22.WordsInSentenceExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\22. WordsInSentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\bin\Debug\_22.WordsInSentenceExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\bin\Debug\_22.WordsInSentenceExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\22. WordsInSentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\_22.WordsInSentenceExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\22. WordsInSentenceExtractor\obj\Debug\_22.WordsInSentenceExtractor.pdb

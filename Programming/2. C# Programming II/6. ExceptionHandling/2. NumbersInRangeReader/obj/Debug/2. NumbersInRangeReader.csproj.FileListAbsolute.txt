@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\2. NumbersInRangeReader\bin\Debug\_2.NumbersInRangeReader.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\2. NumbersInRangeReader\bin\Debug\_2.NumbersInRangeReader.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\2. NumbersInRangeReader\obj\Debug\_2.NumbersInRangeReader.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\6. ExceptionHandling\2. NumbersInRangeReader\obj\Debug\_2.NumbersInRangeReader.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\2. NumbersInRangeReader\obj\Debug\_2.NumbersInRangeReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\2. NumbersInRangeReader\obj\Debug\_2.NumbersInRangeReader.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\2. NumbersInRangeReader\bin\Debug\_2.NumbersInRangeReader.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\6. ExceptionHandling\2. NumbersInRangeReader\bin\Debug\_2.NumbersInRangeReader.pdb

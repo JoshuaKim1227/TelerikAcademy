@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\3. Tron3D\bin\Debug\_3.Tron3D.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\3. Tron3D\bin\Debug\_3.Tron3D.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\3. Tron3D\obj\Debug\3. Tron3D.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\3. Tron3D\obj\Debug\_3.Tron3D.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\3. Tron3D\obj\Debug\_3.Tron3D.pdb

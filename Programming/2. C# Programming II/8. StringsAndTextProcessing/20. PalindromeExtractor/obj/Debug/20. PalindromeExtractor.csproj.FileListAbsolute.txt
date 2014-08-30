@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\bin\Debug\_20.PalindromeExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\bin\Debug\_20.PalindromeExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\obj\Debug\_20.PalindromeExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\obj\Debug\_20.PalindromeExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\bin\Debug\_20.PalindromeExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\bin\Debug\_20.PalindromeExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\obj\Debug\_20.PalindromeExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\20. PalindromeExtractor\obj\Debug\_20.PalindromeExtractor.pdb

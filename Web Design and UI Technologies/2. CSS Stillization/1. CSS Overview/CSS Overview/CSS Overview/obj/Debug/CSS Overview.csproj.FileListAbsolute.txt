@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\1. CSS Overview\CSS Overview\CSS Overview\bin\CSS Overview.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\1. CSS Overview\CSS Overview\CSS Overview\bin\CSS Overview.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\1. CSS Overview\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\1. CSS Overview\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\1. CSS Overview\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb

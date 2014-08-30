@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\6. Strings\bin\_6.Strings.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\6. Strings\bin\_6.Strings.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\6. Strings\obj\Debug\6. Strings.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\6. Strings\obj\Debug\_6.Strings.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\6. Strings\obj\Debug\_6.Strings.pdb

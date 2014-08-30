@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\3. BullsAndCows\bin\Debug\_3.BullsAndCows.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\3. BullsAndCows\bin\Debug\_3.BullsAndCows.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\3. BullsAndCows\obj\Debug\_3.BullsAndCows.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\3. BullsAndCows\obj\Debug\_3.BullsAndCows.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\3. BullsAndCows\obj\Debug\3. BullsAndCows.csprojResolveAssemblyReference.cache

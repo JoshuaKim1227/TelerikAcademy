@@ -1,0 +1,1 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. Minesweeper\bin\Debug\_3.Minesweeper.exe.config

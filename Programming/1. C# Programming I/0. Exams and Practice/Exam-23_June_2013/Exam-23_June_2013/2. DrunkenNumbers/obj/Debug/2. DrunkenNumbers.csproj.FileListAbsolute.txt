@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\2. DrunkenNumbers\bin\Debug\_2.DrunkenNumbers.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\2. DrunkenNumbers\bin\Debug\_2.DrunkenNumbers.pdb
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\2. DrunkenNumbers\obj\Debug\2. DrunkenNumbers.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\2. DrunkenNumbers\obj\Debug\_2.DrunkenNumbers.exe
+D:\Development\Telerik Academy\Programming\C# Programming I\0. Practice\Exam-23_June_2013\Exam-23_June_2013\2. DrunkenNumbers\obj\Debug\_2.DrunkenNumbers.pdb

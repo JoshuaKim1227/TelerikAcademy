@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\1. DescribeStrings\obj\Debug\_1.DescribeStrings.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\1. DescribeStrings\obj\Debug\_1.DescribeStrings.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\1. DescribeStrings\bin\Debug\_1.DescribeStrings.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\1. DescribeStrings\bin\Debug\_1.DescribeStrings.pdb

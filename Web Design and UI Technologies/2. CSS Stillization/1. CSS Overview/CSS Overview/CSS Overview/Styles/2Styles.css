@@ -1,0 +1,30 @@
+﻿
+table, th, td, tr {
+    padding: 8px;
+    width: 600px;
+    text-align: left;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-collapse: collapse;
+}
+
+th { 
+    background-color: #58BB06;
+    border: 1px solid gray;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #ECECD8;
+}
+tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
+.IsPromoted {
+    width: 160px;
+}
+
+img {
+    margin-right: 5px;
+}
+

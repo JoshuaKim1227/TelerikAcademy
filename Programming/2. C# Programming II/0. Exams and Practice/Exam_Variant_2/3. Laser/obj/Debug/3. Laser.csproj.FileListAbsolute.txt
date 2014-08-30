@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\3. Laser\bin\Debug\_3.Laser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\3. Laser\bin\Debug\_3.Laser.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\3. Laser\obj\Debug\3. Laser.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\3. Laser\obj\Debug\_3.Laser.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\3. Laser\obj\Debug\_3.Laser.pdb

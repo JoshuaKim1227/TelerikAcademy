@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\21. LettersInSentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\bin\Debug\_21.LettersInSentenceExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\bin\Debug\_21.LettersInSentenceExtractor.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\_21.LettersInSentenceExtractor.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\_21.LettersInSentenceExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\bin\Debug\_21.LettersInSentenceExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\bin\Debug\_21.LettersInSentenceExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\21. LettersInSentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\_21.LettersInSentenceExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\21. LettersInSentenceExtractor\obj\Debug\_21.LettersInSentenceExtractor.pdb

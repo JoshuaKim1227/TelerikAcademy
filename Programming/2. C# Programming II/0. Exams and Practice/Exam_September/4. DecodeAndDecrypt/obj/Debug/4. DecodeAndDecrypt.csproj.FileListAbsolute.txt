@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\4. DecodeAndDecrypt\bin\Debug\_4.DecodeAndDecrypt.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\4. DecodeAndDecrypt\bin\Debug\_4.DecodeAndDecrypt.pdb
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\4. DecodeAndDecrypt\obj\Debug\4. DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\4. DecodeAndDecrypt\obj\Debug\_4.DecodeAndDecrypt.exe
+D:\Development\Telerik Academy\Programming\2. C# Programming II\0. Practice\Exam_September\4. DecodeAndDecrypt\obj\Debug\_4.DecodeAndDecrypt.pdb

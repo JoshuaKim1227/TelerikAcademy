@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\obj\Debug\1. DeclaringVariables.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

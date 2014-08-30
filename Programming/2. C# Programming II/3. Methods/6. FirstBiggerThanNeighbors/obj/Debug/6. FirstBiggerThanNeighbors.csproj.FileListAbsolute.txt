@@ -1,0 +1,14 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_6.FirstBiggerThanNeighbors.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_6.FirstBiggerThanNeighbors.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\6. FirstBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\_6.FirstBiggerThanNeighbors.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\_6.FirstBiggerThanNeighbors.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_6.FirstBiggerThanNeighbors.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_6.FirstBiggerThanNeighbors.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\6. FirstBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\_6.FirstBiggerThanNeighbors.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\6. FirstBiggerThanNeighbors\obj\Debug\_6.FirstBiggerThanNeighbors.pdb

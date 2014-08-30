@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\isPrime\bin\Debug\isPrime.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\isPrime\bin\Debug\isPrime.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\isPrime\bin\Debug\isPrime.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\isPrime\obj\Debug\isPrime.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\isPrime\obj\Debug\isPrime.pdb

@@ -1,0 +1,119 @@
+﻿body {
+    background-color: #626262;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    background-color: white;
+    height: 745px;
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    border-radius: 5px; 
+}
+
+h1 {
+    display: inline;
+    position: relative;
+    top: 18px;
+}
+
+h2 {
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    left: 45px;
+    bottom: 40px;
+    width: 207px;
+    text-align: center;
+    font-size: 22px;
+}
+
+a {
+    color: #00ABEF;
+}
+
+header {
+    height: 64px;
+    width: 955px;
+    margin: 0 auto;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+#mainContent {
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 14px;
+    height: 646px;
+    width: 652px;
+    padding-left: 8px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+    #mainContent .innerBox {
+        float: left;
+        height: 173px;
+        width: 298px;
+        padding: 6px;
+        margin-top: 20px;
+        margin-right: 10px;
+        border: 2px solid black;
+    }
+
+        #mainContent .innerBox img {
+            float: left;
+            position: relative;
+            bottom: 50px;
+        }
+
+        #mainContent .innerBox ul {
+            float: left;
+            position: relative;
+            bottom: 12px;
+            padding: 0px;
+            margin: 0px;
+            font-size: 22px;
+            list-style: none;
+        }
+
+        #mainContent .innerBox li {
+            margin-bottom: 21px;
+        }
+
+    #mainContent .innerBox span {
+        float: left;
+        position: relative;
+        bottom: 58px;
+        left: 30px;
+        font-size: 22px;
+    }
+
+aside {
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+    aside dl {
+        display: inline;
+        position: relative;
+        top: 75px;
+        left: 5px;
+        font-size: 28px;
+    }
+
+    aside dt, dd {     
+        padding-bottom: 29px;
+    }
+
+    aside span {
+        padding-left: 32px;
+    }
+
+    aside input[type="range"] {
+        width: 240px;
+    }
+

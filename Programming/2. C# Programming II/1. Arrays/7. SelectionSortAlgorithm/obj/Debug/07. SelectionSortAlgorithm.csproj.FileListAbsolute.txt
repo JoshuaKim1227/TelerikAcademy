@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\7. SelectionSortAlgorithm\bin\Debug\_7.SelectionSortAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\7. SelectionSortAlgorithm\bin\Debug\_7.SelectionSortAlgorithm.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\7. SelectionSortAlgorithm\obj\Debug\_7.SelectionSortAlgorithm.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\7. SelectionSortAlgorithm\obj\Debug\_7.SelectionSortAlgorithm.pdb

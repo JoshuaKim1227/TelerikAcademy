@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JS Console - Example</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        #number {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-number">Number: </label>
+    <input type="text" id="tb-number" />
+    <br />
+    <a href="#" onclick="onProcessButtonClick()">Process</a>
+    <div id="console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var number = jsConsole.readInteger("#tb-number");
+
+            var hundreds;
+            var tens;
+            var digits;
+
+            // Code for three digit numbers
+            if (number >= 100) {
+                hundreds = parseInt(number / 100);
+                tens = number % 100;
+
+                switch (hundreds) {
+                    case 1: jsConsole.write("One hundred "); break;
+                    case 2: jsConsole.write("Two hundred "); break;
+                    case 3: jsConsole.write("Three hundred "); break;
+                    case 4: jsConsole.write("Four hundred "); break;
+                    case 5: jsConsole.write("Five hundred "); break;
+                    case 6: jsConsole.write("Six hundred "); break;
+                    case 7: jsConsole.write("Seven hundred "); break;
+                    case 8: jsConsole.write("Eight hundred "); break;
+                    case 9: jsConsole.write("Nine hundred "); break;
+                    default: jsConsole.write("");
+                }
+
+                if (tens < 10) {
+                    switch (tens) {
+                        case 1: jsConsole.write("and one"); break;
+                        case 2: jsConsole.write("and two"); break;
+                        case 3: jsConsole.write("and three"); break;
+                        case 4: jsConsole.write("and four"); break;
+                        case 5: jsConsole.write("and five"); break;
+                        case 6: jsConsole.write("and six"); break;
+                        case 7: jsConsole.write("and seven"); break;
+                        case 8: jsConsole.write("and eight"); break;
+                        case 9: jsConsole.write("and nine"); break;
+                        default: "";
+                    }
+                }
+
+                if (tens >= 10 && tens <= 20) {
+                    switch (tens) {
+                        case 10: jsConsole.write("and ten"); break;
+                        case 11: jsConsole.write("and eleven"); break;
+                        case 12: jsConsole.write("and twelve"); break;
+                        case 13: jsConsole.write("and thirteen"); break;
+                        case 14: jsConsole.write("and fourteen"); break;
+                        case 15: jsConsole.write("and fifteen"); break;
+                        case 16: jsConsole.write("and sixteen"); break;
+                        case 17: jsConsole.write("and seventeen"); break;
+                        case 18: jsConsole.write("and eighteen"); break;
+                        case 19: jsConsole.write("and nineteen"); break;
+                        case 20: jsConsole.write("and twenty"); break;
+                        default: jsConsole.write("");
+                    }
+                }
+
+                if (tens > 20) {
+                    var tensLeftDigit = parseInt(tens / 10);
+                    var tensRightDigit = parseInt(tens % 10);
+
+                    switch (tensLeftDigit) {
+                        case 2: jsConsole.write("and twenty "); break;
+                        case 3: jsConsole.write("and thirty "); break;
+                        case 4: jsConsole.write("and fourty "); break;
+                        case 5: jsConsole.write("and fifty "); break;
+                        case 6: jsConsole.write("and sixty "); break;
+                        case 7: jsConsole.write("and seventy "); break;
+                        case 8: jsConsole.write("and eighty "); break;
+                        case 9: jsConsole.write("and ninety "); break;
+                        default: jsConsole.write("");
+                    }
+
+                    switch (tensRightDigit) {
+                        case 1: jsConsole.write("one"); break;
+                        case 2: jsConsole.write("two"); break;
+                        case 3: jsConsole.write("three"); break;
+                        case 4: jsConsole.write("four"); break;
+                        case 5: jsConsole.write("five"); break;
+                        case 6: jsConsole.write("six"); break;
+                        case 7: jsConsole.write("seven"); break;
+                        case 8: jsConsole.write("eight"); break;
+                        case 9: jsConsole.write("nine"); break;
+                        default: "";
+                    }
+                }
+            }
+
+            // Code for two digit numbers
+            if (number >= 10 && number <= 100) {
+                if (number < 10) {
+                    switch (number) {
+                        case 1: jsConsole.write("One"); break;
+                        case 2: jsConsole.write("Two"); break;
+                        case 3: jsConsole.write("Three"); break;
+                        case 4: jsConsole.write("Four"); break;
+                        case 5: jsConsole.write("Five"); break;
+                        case 6: jsConsole.write("Six"); break;
+                        case 7: jsConsole.write("Seven"); break;
+                        case 8: jsConsole.write("Eight"); break;
+                        case 9: jsConsole.write("Nine"); break;
+                        default: "";
+                    }
+                }
+
+                if (number >= 10 && number <= 20) {
+                    switch (number) {
+                        case 10: jsConsole.write("Ten"); break;
+                        case 11: jsConsole.write("Eleven"); break;
+                        case 12: jsConsole.write("Twelve"); break;
+                        case 13: jsConsole.write("Thirteen"); break;
+                        case 14: jsConsole.write("Fourteen"); break;
+                        case 15: jsConsole.write("Fifteen"); break;
+                        case 16: jsConsole.write("Sixteen"); break;
+                        case 17: jsConsole.write("Seventeen"); break;
+                        case 18: jsConsole.write("Eighteen"); break;
+                        case 19: jsConsole.write("Nineteen"); break;
+                        case 20: jsConsole.write("Twenty"); break;
+                        default: jsConsole.write("");
+                    }
+                }
+
+                if (number > 20) {
+                    var tensLeftDigit = parseInt(number / 10);
+                    var tensRightDigit = parseInt(number % 10);
+
+                    switch (tensLeftDigit) {
+                        case 2: jsConsole.write("Twenty "); break;
+                        case 3: jsConsole.write("Thirty "); break;
+                        case 4: jsConsole.write("Fourty "); break;
+                        case 5: jsConsole.write("Fifty "); break;
+                        case 6: jsConsole.write("Sixty "); break;
+                        case 7: jsConsole.write("Seventy "); break;
+                        case 8: jsConsole.write("Eighty "); break;
+                        case 9: jsConsole.write("Ninety "); break;
+                        default: jsConsole.write("");
+                    }
+
+                    switch (tensRightDigit) {
+                        case 1: jsConsole.write("one"); break;
+                        case 2: jsConsole.write("two"); break;
+                        case 3: jsConsole.write("three"); break;
+                        case 4: jsConsole.write("four"); break;
+                        case 5: jsConsole.write("five"); break;
+                        case 6: jsConsole.write("six"); break;
+                        case 7: jsConsole.write("seven"); break;
+                        case 8: jsConsole.write("eight"); break;
+                        case 9: jsConsole.write("nine"); break;
+                        default: "";
+                    }
+                }
+            }
+
+            //Code for one digit numbers
+            if (number >= 0) {
+                switch (number) {
+                    case 0: jsConsole.write("Zero"); break;
+                    case 1: jsConsole.write("One"); break;
+                    case 2: jsConsole.write("Two"); break;
+                    case 3: jsConsole.write("Three"); break;
+                    case 4: jsConsole.write("Four"); break;
+                    case 5: jsConsole.write("Five"); break;
+                    case 6: jsConsole.write("Six"); break;
+                    case 7: jsConsole.write("Seven"); break;
+                    case 8: jsConsole.write("Eight"); break;
+                    case 9: jsConsole.write("Nine"); break;
+                    default: "";
+                }
+            }
+            jsConsole.writeLine("");
+        }
+    </script>
+</body>
+</html>

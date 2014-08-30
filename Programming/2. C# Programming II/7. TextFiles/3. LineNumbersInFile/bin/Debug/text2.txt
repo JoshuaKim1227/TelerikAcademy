@@ -1,0 +1,9 @@
+Line 1: Once created a string cannot be changed. - DIFFERENT
+Line 2: A StringBuilder can be changed as many times as necessary.
+Line 3: It yields astonishing performance improvements.
+Line 4: It eliminates millions of string copies. - DIFFERENT
+Line 5: And in certain loops it is essential. - DIFFERENT
+Line 6: As an introduction, this program shows how the 
+Line 7: StringBuilder type is used to build up a larger - DIFFERENT
+Line 8: buffer of characters. You can call the Append method
+Line 9: on the StringBuilder instance to add more and more data.

@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\12. ListedWordsRemover\bin\Debug\_12.ListedWordsRemover.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\12. ListedWordsRemover\bin\Debug\_12.ListedWordsRemover.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\12. ListedWordsRemover\obj\Debug\12. ListedWordsRemover.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\12. ListedWordsRemover\obj\Debug\_12.ListedWordsRemover.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\12. ListedWordsRemover\obj\Debug\_12.ListedWordsRemover.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\12. ListedWordsRemover\obj\Debug\_12.ListedWordsRemover.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\12. ListedWordsRemover\obj\Debug\_12.ListedWordsRemover.pdb

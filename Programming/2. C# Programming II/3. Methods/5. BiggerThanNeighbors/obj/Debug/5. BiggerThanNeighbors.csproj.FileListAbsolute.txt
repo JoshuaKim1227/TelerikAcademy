@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\5. BiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\5. BiggerThanNeighbors\bin\Debug\_5.BiggerThanNeighbors.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\5. BiggerThanNeighbors\obj\Debug\5. BiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\5. BiggerThanNeighbors\obj\Debug\_5.BiggerThanNeighbors.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\5. BiggerThanNeighbors\obj\Debug\_5.BiggerThanNeighbors.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\5. BiggerThanNeighbors\obj\Debug\_5.BiggerThanNeighbors.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\5. BiggerThanNeighbors\obj\Debug\_5.BiggerThanNeighbors.pdb

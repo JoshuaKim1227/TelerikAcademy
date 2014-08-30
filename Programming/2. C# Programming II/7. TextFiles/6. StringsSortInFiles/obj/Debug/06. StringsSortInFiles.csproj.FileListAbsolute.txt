@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\6. StringsSortInFiles\bin\Debug\_6.StringsSortInFiles.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\6. StringsSortInFiles\bin\Debug\_6.StringsSortInFiles.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\6. StringsSortInFiles\obj\Debug\_6.StringsSortInFiles.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\6. StringsSortInFiles\obj\Debug\_6.StringsSortInFiles.pdb

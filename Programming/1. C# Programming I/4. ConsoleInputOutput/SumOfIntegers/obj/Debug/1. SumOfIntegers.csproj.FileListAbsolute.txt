@@ -1,0 +1,9 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\bin\Debug\SumOfIntegers.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\bin\Debug\SumOfIntegers.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\obj\Debug\1. SumOfIntegers.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\SumOfIntegers\obj\Debug\SumOfIntegers.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\New\4. ConsoleInputOutput\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\New\4. ConsoleInputOutput\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\New\4. ConsoleInputOutput\SumOfIntegers\obj\Debug\SumOfIntegers.pdb

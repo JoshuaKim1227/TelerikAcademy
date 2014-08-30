@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-line1">Line 1 (X1, Y1, X2, Y2): </label>
+	<input type="text" id="tb-line1" />
+	<label for="tb-line2">Line 2 (X1, Y1, X2, Y2): </label>
+	<input type="text" id="tb-line2" />
+	<label for="tb-line3">Line 3 (X1, Y1, X2, Y2): </label>
+	<input type="text" id="tb-line3" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var line1Points = jsConsole.readNumbersArray("#tb-line1", ",");
+            var line2Points = jsConsole.readNumbersArray("#tb-line2", ",");
+            var line3Points = jsConsole.readNumbersArray("#tb-line3", ",");
+
+            function LinesCalculate(line1Points, line2Points, line3Points) {
+                var lines = [];
+                var lengthOfLines = [];
+                var formsTriagle = false;
+
+                lines[0] = {
+                    pointX1: line1Points[0],
+                    pointY1: line1Points[1],
+                    pointX2: line1Points[2],
+                    pointY2: line1Points[3],
+                    differenceInPointsX: 0,
+                    differenceInPointsY: 0,
+                };
+
+                lines[1] = {
+                    pointX1: line2Points[0],
+                    pointY1: line2Points[1],
+                    pointX2: line2Points[2],
+                    pointY2: line2Points[3],
+                    differenceInPointsX: 0,
+                    differenceInPointsY: 0,
+                };
+
+                lines[2] = {
+                    pointX1: line3Points[0],
+                    pointY1: line3Points[1],
+                    pointX2: line3Points[2],
+                    pointY2: line3Points[3],
+                    differenceInPointsX: 0,
+                    differenceInPointsY: 0,
+                    length: 0
+                };
+
+                for (var line = 0; line < lines.length; line++) {
+                    lines[line].differenceInPointsX = Math.abs(lines[line].pointX1 - lines[line].pointX2);
+                    lines[line].differenceInPointsY = Math.abs(lines[line].pointY1 - lines[line].pointY2);
+
+                    lines[line].length = Math.sqrt(Math.pow(lines[line].differenceInPointsX, 2) + Math.pow(lines[line].differenceInPointsY, 2));
+                }
+
+                if (lines[1].length + lines[2].length > lines[0].length &&
+                    lines[0].length + lines[2].length > lines[1].length &&
+                    lines[0].length + lines[1].length > lines[2].length) {
+                    formsTriagle = true;
+                }
+
+                for (var line = 0; line < lines.length; line++) {
+                    jsConsole.writeLine("The length of line " + (line + 1) + " is: " + lines[line].length);
+                }
+                jsConsole.writeLine("The lines can form a triangle: " + formsTriagle);
+            }
+            LinesCalculate(line1Points, line2Points, line3Points);
+        }
+    </script>
+</body>
+</html>

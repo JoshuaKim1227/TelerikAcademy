@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\2. SpecialValue\bin\Debug\_2.SpecialValue.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\2. SpecialValue\bin\Debug\_2.SpecialValue.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\2. SpecialValue\obj\Debug\_2.SpecialValue.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\2. SpecialValue\obj\Debug\_2.SpecialValue.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\Exam2_11Feb2013\2. SpecialValue\obj\Debug\2. SpecialValue.csprojResolveAssemblyReference.cache

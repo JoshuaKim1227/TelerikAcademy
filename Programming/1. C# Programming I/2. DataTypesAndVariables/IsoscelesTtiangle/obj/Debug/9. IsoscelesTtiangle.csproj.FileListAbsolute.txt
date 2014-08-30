@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsoscelesTtiangle\bin\Debug\IsoscelesTtiangle.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsoscelesTtiangle\bin\Debug\IsoscelesTtiangle.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsoscelesTtiangle\bin\Debug\IsoscelesTtiangle.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsoscelesTtiangle\obj\Debug\IsoscelesTtiangle.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\IsoscelesTtiangle\obj\Debug\IsoscelesTtiangle.pdb

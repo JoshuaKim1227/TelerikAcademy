@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\8. SentencesExtractor\bin\Debug\_8.SentencesExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\8. SentencesExtractor\bin\Debug\_8.SentencesExtractor.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\8. SentencesExtractor\obj\Debug\_8.SentencesExtractor.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\8. SentencesExtractor\obj\Debug\_8.SentencesExtractor.pdb

@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\bin\Debug\_6.AsteriskIfLessThan20.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\bin\Debug\_6.AsteriskIfLessThan20.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\obj\Debug\_6.AsteriskIfLessThan20.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\obj\Debug\_6.AsteriskIfLessThan20.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\obj\Debug\_6.AsteriskIfLessThan20.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\6. AsteriskIfLessThan20\obj\Debug\_6.AsteriskIfLessThan20.pdb

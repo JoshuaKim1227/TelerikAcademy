@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\5. TwoIsBetterThanOne\bin\Debug\_5.TwoIsBetterThanOne.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\5. TwoIsBetterThanOne\bin\Debug\_5.TwoIsBetterThanOne.pdb
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\5. TwoIsBetterThanOne\obj\Debug\5. TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\5. TwoIsBetterThanOne\obj\Debug\_5.TwoIsBetterThanOne.exe
+D:\Media\Development\Telerik Academy\Practice\SoftwareAcademy\C# Programming II - Exam\Variant_2\5. TwoIsBetterThanOne\obj\Debug\_5.TwoIsBetterThanOne.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\5. TwoIsBetterThanOne\obj\Debug\_5.TwoIsBetterThanOne.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\5. TwoIsBetterThanOne\obj\Debug\_5.TwoIsBetterThanOne.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\5. TwoIsBetterThanOne\bin\Debug\_5.TwoIsBetterThanOne.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\5. TwoIsBetterThanOne\bin\Debug\_5.TwoIsBetterThanOne.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\0. Practice\Exam_Variant_2\5. TwoIsBetterThanOne\obj\Debug\5. TwoIsBetterThanOne.csprojResolveAssemblyReference.cache

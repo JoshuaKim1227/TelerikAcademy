@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Functions", "4. Functions.csproj", "{BA3B5270-DE2D-4A37-937E-C1BC94506604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3B5270-DE2D-4A37-937E-C1BC94506604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3B5270-DE2D-4A37-937E-C1BC94506604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3B5270-DE2D-4A37-937E-C1BC94506604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3B5270-DE2D-4A37-937E-C1BC94506604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

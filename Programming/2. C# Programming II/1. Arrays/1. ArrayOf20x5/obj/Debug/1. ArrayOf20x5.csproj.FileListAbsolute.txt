@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\1. ArrayOf20x5\bin\Debug\_1.ArrayOf20x5.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\1. ArrayOf20x5\bin\Debug\_1.ArrayOf20x5.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\1. ArrayOf20x5\obj\Debug\_1.ArrayOf20x5.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\1. ArrayOf20x5\obj\Debug\_1.ArrayOf20x5.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\1. ArrayOf20x5\obj\Debug\1. ArrayOf20x5.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\1. ArrayOf20x5\obj\Debug\_1.ArrayOf20x5.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\1. ArrayOf20x5\obj\Debug\_1.ArrayOf20x5.pdb

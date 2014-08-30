@@ -1,0 +1,4 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\2. IEnumerableExtensions\bin\Debug\_2.IEnumerableExtensions.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\2. IEnumerableExtensions\bin\Debug\_2.IEnumerableExtensions.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\2. IEnumerableExtensions\obj\Debug\_2.IEnumerableExtensions.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\3. ExtensionMethodsDelegatesLambda\2. IEnumerableExtensions\obj\Debug\_2.IEnumerableExtensions.pdb

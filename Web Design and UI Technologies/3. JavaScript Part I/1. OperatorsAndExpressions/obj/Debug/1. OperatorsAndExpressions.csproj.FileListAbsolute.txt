@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\1. OperatorsAndExpressions\bin\_1.OperatorsAndExpressions.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\1. OperatorsAndExpressions\bin\_1.OperatorsAndExpressions.pdb
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\1. OperatorsAndExpressions\obj\Debug\1. OperatorsAndExpressions.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\1. OperatorsAndExpressions\obj\Debug\_1.OperatorsAndExpressions.dll
+D:\Development\Telerik Academy\Web Design and UI Technologies\3. JavaScript Part I\1. OperatorsAndExpressions\obj\Debug\_1.OperatorsAndExpressions.pdb

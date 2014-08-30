@@ -1,0 +1,10 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\2. AcademyRPG\bin\Debug\AcademyRPG.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\2. AcademyRPG\bin\Debug\AcademyRPG.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\2. AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\2. AcademyRPG\obj\Debug\AcademyRPG.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\0. Practice\Exam_Variant_1\2. AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Pathaway\Desktop\2. AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\Pathaway\Desktop\2. AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Pathaway\Desktop\2. AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Pathaway\Desktop\2. AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\Pathaway\Desktop\2. AcademyRPG\bin\Debug\AcademyRPG.pdb

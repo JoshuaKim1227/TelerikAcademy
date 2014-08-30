@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var text = "Did you ever wonder email@test.bg what Regular Expressions are mail@google.com all about and want to gain e-mail@gmail.com a basic understanding quickly"
+
+            function extractMail(str) {
+                var re = /\S+@.*?\s/gi;
+                var result = [];
+
+                result = str.match(re);
+                
+                return result;
+            }
+
+            jsConsole.writeLine(extractMail(text));
+        }
+    </script>
+</body>
+</html>

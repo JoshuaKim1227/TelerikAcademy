@@ -1,0 +1,31 @@
+﻿#nav, .nav, #nav .nav li { 
+    margin:0px; 
+    padding-left:5px; 
+}
+
+#nav li {
+    list-style-type: none;
+}
+
+#nav li a {
+    color: black;
+    text-decoration: none;
+}
+
+#nav li a:hover {
+    text-decoration: underline;
+}
+
+#nav .nav li a {
+    color: gray;
+}
+
+ul.nav {
+    display:none;
+}
+
+li:hover > .nav {
+     display:block; 
+}
+
+

@@ -1,0 +1,11 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\obj\Debug\_1.OddLinesFromFile.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\obj\Debug\_1.OddLinesFromFile.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.exe.CodeAnalysisLog.xml
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.exe.lastcodeanalysissucceeded
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\1. OddLinesFromFile\obj\Debug\_1.OddLinesFromFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\1. OddLinesFromFile\obj\Debug\_1.OddLinesFromFile.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\1. OddLinesFromFile\bin\Debug\_1.OddLinesFromFile.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\1. OddLinesFromFile\obj\Debug\1. OddLinesFromFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,224 @@
+﻿/* General Rules */
+body {
+    background-color: #626262;
+    font-family: Verdana, Arial;
+    font-size: 13px;
+}
+
+h2 {
+    background-color: #808080;
+    color: white;
+    font-weight: normal;
+}
+
+a {
+    color: #941311;
+}
+
+/* Wrapper and borders */
+#borderDiv {
+    background-color: #F1F1F1;
+    height: 719px;
+    width: 975px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#wrapper {
+    position: relative;
+    top: 3px;
+    height: 712px;
+    width: 971px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+/* Left Sidebar Rules */
+#leftSidebar {
+    float: left;
+    background-color: #F1F1F1;
+    height: 712px;
+    width: 175px;
+}
+
+    #leftSidebar a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #leftSidebar ul {
+        position: relative;
+        top: 18px;
+        list-style-type: none;
+        padding: 0px;
+        padding-top: 14px;
+        margin: 2px;
+    }
+
+        #leftSidebar ul li:first-child a {
+            color: #900B09;
+            font-weight: bold;
+        }
+
+    #leftSidebar img {
+        float: left;
+        position: relative;
+        top: 16px;
+        left: 1px;
+        list-style-image: url(../Images/Home.PNG);
+        width: 21px;
+    }
+
+#home {
+    position: relative;
+    top: 20px;
+    padding-left: 5px;
+    font-family: Verdana, Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Main Content Rules */
+#mainContent {
+    float: left;
+    position: relative;
+    top: 2px;
+    background-color: white;
+    height: 673px;
+    width: 611px;
+    padding: 7px;
+    border: 1px solid #858585;
+}
+
+    #mainContent header, footer {
+        padding-bottom: 4px;
+        border-bottom: 2px solid #959595;
+    }
+
+        #mainContent header h1 {
+            font-size: 24px;
+        }
+
+    #mainContent input[type="button"] {
+        position: relative;
+        top: -4px;
+        height: 26px;
+        width: 122px;
+        border: none;
+    }
+
+        #mainContent input[type="button"]:hover {
+            cursor: pointer;
+        }
+
+    #mainContent .leftNavButton {
+        background-image: url(../Images/LeftNavButton.png);
+    }
+
+    #mainContent .rightNavButton {
+        background-image: url(../Images/RightNavButton.png);
+    }
+
+    #mainContent section:first-of-type {
+        height: 161px;
+    }
+
+    #mainContent section:nth-child(2n + 1) {
+        height: 93px;
+    }
+
+    #mainContent section:nth-child(3n + 1) {
+        height: 93px;
+    }
+
+    #mainContent section h2 {
+        position: relative;
+        top: -6px;
+        padding-left: 5px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-bottom: -8px;
+        font-size: 16px;
+    }
+
+    #mainContent section img {
+        float: left;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        height: 85px;
+        width: 114px;
+    }
+
+    #mainContent section:first-of-type p {
+        margin: 22px;
+        font-weight: bold;
+    }
+
+    #mainContent section p {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    #mainContent footer {
+        position: relative;
+        top: -7px;
+        padding-top: 12px;
+        padding-bottom: 4px;
+        border-top: 2px solid #959595;
+        border-bottom: 2px solid #959595;
+    }
+
+/* Right Sidebar Rules */
+#rightSidebar {
+    background-color: white;
+    float: left;
+    position: relative;
+    top: 2px;
+    left: 2px;
+    height: 688px;
+    width: 163px;
+}
+
+
+    #rightSidebar section {
+        float: left;
+        width: 163px;
+        text-align: center;
+        padding-bottom: 7px;
+        margin-bottom: 1px;
+        border: 1px solid #858585;
+    }
+
+        #rightSidebar section:first-child {
+            height: 90px;
+            width: 163px;
+        }
+
+        #rightSidebar section h2 {
+            width: 163px;
+            font-size: 14px;
+            margin: 0px;
+        }
+
+        #rightSidebar section input[type="text"] {
+            position: relative;
+            left: -10px;
+            margin-top: 9px;
+            margin-left: 12px;
+            width: 100px;
+        }
+
+        #rightSidebar section input[type="button"] {
+            position: relative;
+            left: -10px;
+            width: 23px;
+            padding: 2px;
+            font-weight: bold;
+        }
+
+        #rightSidebar section a {
+            line-height: 19px;
+            position: relative;
+            top: 3px;
+        }

@@ -1,0 +1,6 @@
+Once created a cannot changed.
+A StringBuilder can changed as many
+times as necessary. yields astonishing
+performance improvements. eliminates
+millions of copies. And in certain
+loops is essential.

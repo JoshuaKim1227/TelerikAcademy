@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\bin\Debug\_1.LeapYearChecker.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\bin\Debug\_1.LeapYearChecker.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\1. LeapYearChecker.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\_1.LeapYearChecker.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\_1.LeapYearChecker.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\_1.LeapYearChecker.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\_1.LeapYearChecker.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\bin\Debug\_1.LeapYearChecker.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\bin\Debug\_1.LeapYearChecker.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\5. UsingClassesAndObjects\1. LeapYearChecker\obj\Debug\1. LeapYearChecker.csprojResolveAssemblyReference.cache

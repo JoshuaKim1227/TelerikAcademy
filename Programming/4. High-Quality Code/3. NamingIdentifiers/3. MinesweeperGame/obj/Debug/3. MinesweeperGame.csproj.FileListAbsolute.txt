@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. MinesweeperGame\bin\Debug\_3.MinesweeperGame.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. MinesweeperGame\bin\Debug\_3.MinesweeperGame.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. MinesweeperGame\obj\Debug\3. MinesweeperGame.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. MinesweeperGame\obj\Debug\_3.MinesweeperGame.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\3. NamingIdentifiers\3. MinesweeperGame\obj\Debug\_3.MinesweeperGame.pdb

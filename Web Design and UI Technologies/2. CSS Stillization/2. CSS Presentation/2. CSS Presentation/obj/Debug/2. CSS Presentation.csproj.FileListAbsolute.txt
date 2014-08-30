@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\2. CSS Presentation\2. CSS Presentation\bin\_2.CSS_Presentation.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\2. CSS Presentation\2. CSS Presentation\bin\_2.CSS_Presentation.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\2. CSS Presentation\2. CSS Presentation\obj\Debug\2. CSS Presentation.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\2. CSS Presentation\2. CSS Presentation\obj\Debug\_2.CSS_Presentation.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\2. CSS Stillization\2. CSS Presentation\2. CSS Presentation\obj\Debug\_2.CSS_Presentation.pdb

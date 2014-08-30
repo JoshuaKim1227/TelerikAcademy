@@ -1,0 +1,8 @@
+1. Max Sum:
+	225min 	3:45	(100/100)
+
+2. Labyrinth Escape:
+	105min 	1:45	(100/100)
+
+3. Listy:
+	155min  2:35	(0/100)

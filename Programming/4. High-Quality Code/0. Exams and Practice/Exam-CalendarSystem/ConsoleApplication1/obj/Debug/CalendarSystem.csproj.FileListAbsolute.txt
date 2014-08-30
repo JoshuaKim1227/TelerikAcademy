@@ -1,0 +1,6 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\bin\Debug\CalendarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\bin\Debug\CalendarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\obj\Debug\CalendarSystem.exe
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\obj\Debug\CalendarSystem.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\0. Practice\Exam-CalendarSystem\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache

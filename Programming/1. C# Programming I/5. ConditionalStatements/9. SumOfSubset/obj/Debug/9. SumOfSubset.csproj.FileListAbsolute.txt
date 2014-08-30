@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\bin\Debug\_9.SumOfSubset.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\bin\Debug\_9.SumOfSubset.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\bin\Debug\_9.SumOfSubset.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\obj\Debug\9. SumOfSubset.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\obj\Debug\_9.SumOfSubset.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\9. SumOfSubset\obj\Debug\_9.SumOfSubset.pdb

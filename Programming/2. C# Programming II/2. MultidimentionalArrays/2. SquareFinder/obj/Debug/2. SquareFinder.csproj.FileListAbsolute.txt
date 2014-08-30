@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\2. SquareFinder\bin\Debug\_2.SquareFinder.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\2. SquareFinder\bin\Debug\_2.SquareFinder.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\2. SquareFinder.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\_2.SquareFinder.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\_2.SquareFinder.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\_2.SquareFinder.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\_2.SquareFinder.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\2. SquareFinder\bin\Debug\_2.SquareFinder.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\2. SquareFinder\bin\Debug\_2.SquareFinder.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\2. MultidimentionalArrays\2. SquareFinder\obj\Debug\2. SquareFinder.csprojResolveAssemblyReference.cache

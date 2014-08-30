@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\14. MinMaxAvSumProduct\bin\Debug\_14.MinMaxAvSumProduct.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\14. MinMaxAvSumProduct\bin\Debug\_14.MinMaxAvSumProduct.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\14. MinMaxAvSumProduct.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\_14.MinMaxAvSumProduct.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\_14.MinMaxAvSumProduct.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\14. MinMaxAvSumProduct\bin\Debug\_14.MinMaxAvSumProduct.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\14. MinMaxAvSumProduct\bin\Debug\_14.MinMaxAvSumProduct.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\14. MinMaxAvSumProduct.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\_14.MinMaxAvSumProduct.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\14. MinMaxAvSumProduct\obj\Debug\_14.MinMaxAvSumProduct.pdb

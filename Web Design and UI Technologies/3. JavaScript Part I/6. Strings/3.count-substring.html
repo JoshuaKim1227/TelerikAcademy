@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">Enter text: </label>
+	<input type="text" id="tb-text" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var text = jsConsole.read("#tb-text");
+
+            function countSubstring(text) {
+                var regExp = new RegExp("in|In");
+                var counter = 0;
+                var startIndex = 0;
+
+                for (var index = 0; index < text.length - 2; index++) {
+                    if (text.search(regExp) != -1) {
+                        startIndex = text.search(regExp);
+                        text = text.substr(startIndex + 1);
+                        counter++;
+                    }
+                }
+
+                return counter;
+            }
+
+            jsConsole.writeLine("The result is: " + countSubstring(text));
+        }
+    </script>
+</body>
+</html>

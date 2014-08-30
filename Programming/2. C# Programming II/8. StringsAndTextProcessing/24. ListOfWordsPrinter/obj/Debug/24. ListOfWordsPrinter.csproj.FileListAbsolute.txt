@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\bin\Debug\_24.ListOfWordsPrinter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\bin\Debug\_24.ListOfWordsPrinter.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\obj\Debug\_24.ListOfWordsPrinter.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\obj\Debug\_24.ListOfWordsPrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\bin\Debug\_24.ListOfWordsPrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\bin\Debug\_24.ListOfWordsPrinter.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\obj\Debug\_24.ListOfWordsPrinter.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\24. ListOfWordsPrinter\obj\Debug\_24.ListOfWordsPrinter.pdb

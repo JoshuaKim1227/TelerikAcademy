@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\bin\Debug\BitsExchanger.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\obj\Debug\13. BitsExchanger.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\bin\Debug\BitsExchanger.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\bin\Debug\BitsExchanger.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\obj\Debug\BitsExchanger.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\BitsExchanger\obj\Debug\BitsExchanger.pdb

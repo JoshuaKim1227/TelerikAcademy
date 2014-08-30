@@ -1,0 +1,9 @@
+1.
+SELECT FirstName + ' ' + LastName, Salary FROM Employees
+WHERE Salary = 
+		(SELECT MIN(Salary) FROM Employees)
+		
+2.
+SELECT FirstName + ' ' + LastName, Salary FROM Employees
+WHERE Salary <
+		(SELECT MIN(Salary) + (MIN(Salary) * 0.10) FROM Employees)

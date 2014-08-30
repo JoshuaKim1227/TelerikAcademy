@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloadOrDoubleAssign\bin\Debug\FloadOrDoubleAssign.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloadOrDoubleAssign\bin\Debug\FloadOrDoubleAssign.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloadOrDoubleAssign\bin\Debug\FloadOrDoubleAssign.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloadOrDoubleAssign\obj\Debug\FloadOrDoubleAssign.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\2. DataTypesAndVariables\FloadOrDoubleAssign\obj\Debug\FloadOrDoubleAssign.pdb

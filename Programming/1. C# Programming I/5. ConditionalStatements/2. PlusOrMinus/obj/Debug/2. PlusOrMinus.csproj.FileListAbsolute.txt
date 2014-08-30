@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\bin\Debug\_2.PlusOrMinus.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\bin\Debug\_2.PlusOrMinus.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\bin\Debug\_2.PlusOrMinus.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\obj\Debug\2. PlusOrMinus.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\obj\Debug\_2.PlusOrMinus.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part I)\5. ConditionalStatements\2. PlusOrMinus\obj\Debug\_2.PlusOrMinus.pdb

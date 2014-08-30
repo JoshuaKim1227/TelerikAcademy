@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\1. HeadingsAndDivs\bin\_1.HeadingsAndDivs.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\1. HeadingsAndDivs\bin\_1.HeadingsAndDivs.pdb
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\1. HeadingsAndDivs\obj\Debug\1. HeadingsAndDivs.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\1. HeadingsAndDivs\obj\Debug\_1.HeadingsAndDivs.dll
+D:\Media\Development\Telerik Academy\Web Design and UI Technologies\HTML Basics\IntroToHTML\1. HeadingsAndDivs\1. HeadingsAndDivs\obj\Debug\_1.HeadingsAndDivs.pdb

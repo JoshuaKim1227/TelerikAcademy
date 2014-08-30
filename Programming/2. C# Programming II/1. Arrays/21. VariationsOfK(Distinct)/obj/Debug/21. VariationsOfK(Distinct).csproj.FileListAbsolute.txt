@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\21. VariationsOfK(Distinct)\bin\Debug\_21.VariationsOfK_Distinct_.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\21. VariationsOfK(Distinct)\bin\Debug\_21.VariationsOfK_Distinct_.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\21. VariationsOfK(Distinct).csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\_21.VariationsOfK_Distinct_.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\_21.VariationsOfK_Distinct_.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\_21.VariationsOfK_Distinct_.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\_21.VariationsOfK_Distinct_.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\21. VariationsOfK(Distinct)\bin\Debug\_21.VariationsOfK_Distinct_.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\21. VariationsOfK(Distinct)\bin\Debug\_21.VariationsOfK_Distinct_.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\21. VariationsOfK(Distinct)\obj\Debug\21. VariationsOfK(Distinct).csprojResolveAssemblyReference.cache

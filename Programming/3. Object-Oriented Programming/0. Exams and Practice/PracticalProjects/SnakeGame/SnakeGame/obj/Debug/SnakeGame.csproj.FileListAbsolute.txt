@@ -1,0 +1,10 @@
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\8. PracticalProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\8. PracticalProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\8. PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\8. PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\Development\Telerik Academy\Programming\Object-Oriented Programming\8. PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Development\Telerik Academy\Programming\3. Object-Oriented Programming\0. Practice\PracticalProjects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache

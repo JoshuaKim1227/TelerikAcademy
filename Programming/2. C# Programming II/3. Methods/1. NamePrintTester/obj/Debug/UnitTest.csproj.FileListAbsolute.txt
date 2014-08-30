@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\bin\Debug\_1.NamePrintTester.dll
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\bin\Debug\_1.NamePrintTester.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\bin\Debug\_1.NamePrinter.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\bin\Debug\_1.NamePrinter.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\obj\Debug\_1.NamePrintTester.dll
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\1. NamePrintTester\obj\Debug\_1.NamePrintTester.pdb

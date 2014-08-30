@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-values1">Chars 1 (separated by space): </label>
+	<input type="text" id="tb-values1" />
+	<label for="tb-values2">Chars 2 (separated by space): </label>
+	<input type="text" id="tb-values2" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var tb = document.getElementById("tb-values1");
+            var value1 = tb.value;
+            var charArray1 = value1.split(" ");
+
+            var tb = document.getElementById("tb-values2");
+            var value2 = tb.value;
+            var charArray2 = value2.split(" ");
+
+            var comparable = false;
+
+            if (charArray1.length == charArray2.length) {
+                for (var index = 0; index < charArray1.length; index++) {
+                    if (charArray1[index] > charArray2[index]) {
+                        jsConsole.writeLine("The second char array is before the first:");
+                        jsConsole.writeLine(charArray2);
+                        jsConsole.writeLine(charArray1);
+
+                        comparable = true;
+                    }
+
+                    if (charArray1[index] < charArray2[index]) {
+                        jsConsole.writeLine("The first char array is before the second:");
+                        jsConsole.writeLine(charArray1);
+                        jsConsole.writeLine(charArray2);
+
+                        comparable = true;
+                    }
+                }
+
+                if (comparable == false) {
+                    jsConsole.writeLine("The char arrays are equal!");
+                }
+            }
+
+            else if (charArray1.length < charArray2.length) {
+                for (var index = 0; index < charArray1.length; index++) {
+                    if (charArray1[index] > charArray2[index]) {
+                        jsConsole.writeLine("The second char array is before the first:");
+                        jsConsole.writeLine(charArray2);
+                        jsConsole.writeLine(charArray1);
+                    }
+
+                    if (charArray1[index] < charArray2[index]) {
+                        jsConsole.writeLine("The first char array is before the second:");
+                        jsConsole.writeLine(charArray1);
+                        jsConsole.writeLine(charArray2);
+                    }
+                }
+            }
+
+            else if (charArray1.length > charArray2.length) {
+                for (var index = 0; index < charArray2.length; index++) {
+                    if (charArray1[index] > charArray2[index]) {
+                        jsConsole.writeLine("The second char array is before the first:");
+                        jsConsole.writeLine(charArray2);
+                        jsConsole.writeLine(charArray1);
+                    }
+
+                    if (charArray1[index] < charArray2[index]) {
+                        jsConsole.writeLine("The first char array is before the second:");
+                        jsConsole.writeLine(charArray1);
+                        jsConsole.writeLine(charArray2);
+                    }
+                }
+            }
+
+            else {
+                jsConsole.writeLine("The char arrays cannot be compared!");
+            }
+        }
+    </script>
+</body>
+</html>

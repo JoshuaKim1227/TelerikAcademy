@@ -1,0 +1,14 @@
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\TicketingSystem.Models.dll.config
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\TicketingSystem.Models.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\TicketingSystem.Models.pdb
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\EntityFramework.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\EntityFramework.xml
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\obj\Debug\TicketingSystem.Models.dll
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\obj\Debug\TicketingSystem.Models.pdb
+D:\Development\GitHub Repo\TicketingSystem\TicketingSystem.Models\obj\Debug\TicketingSystem.Models.csprojResolveAssemblyReference.cache

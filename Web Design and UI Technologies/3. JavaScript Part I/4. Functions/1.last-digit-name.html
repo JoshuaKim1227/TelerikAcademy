@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-number">Number: </label>
+	<input type="text" id="tb-number" />
+	<br />
+	<a href="#" onclick="onProcessButtonClick()">Process</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js"></script>
+    <script>
+        function onProcessButtonClick() {
+            var number = jsConsole.readInteger("#tb-number");
+
+            function getLastDigitName(number) {
+                var lastDigit = number % 10;
+
+                switch (lastDigit) {
+                    case 0: return "zero"; break;
+                    case 1: return "one"; break;
+                    case 2: return "two"; break;
+                    case 3: return "three"; break;
+                    case 4: return "four"; break;
+                    case 5: return "five"; break;
+                    case 6: return "six"; break;
+                    case 7: return "seven"; break;
+                    case 8: return "eight"; break;
+                    case 9: return "nine"; break;
+                    default: return ""; break;
+                }
+            }
+
+            jsConsole.writeLine(getLastDigitName(number));
+        }
+    </script>
+</body>
+</html>

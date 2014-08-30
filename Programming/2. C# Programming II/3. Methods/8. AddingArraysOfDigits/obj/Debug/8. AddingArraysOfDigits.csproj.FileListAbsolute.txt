@@ -1,0 +1,10 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\8. AddingArraysOfDigits\bin\Debug\_8.AddingArraysOfDigits.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\8. AddingArraysOfDigits\bin\Debug\_8.AddingArraysOfDigits.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\8. AddingArraysOfDigits.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\_8.AddingArraysOfDigits.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\_8.AddingArraysOfDigits.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\8. AddingArraysOfDigits\bin\Debug\_8.AddingArraysOfDigits.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\8. AddingArraysOfDigits\bin\Debug\_8.AddingArraysOfDigits.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\8. AddingArraysOfDigits.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\_8.AddingArraysOfDigits.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\3. Methods\8. AddingArraysOfDigits\obj\Debug\_8.AddingArraysOfDigits.pdb

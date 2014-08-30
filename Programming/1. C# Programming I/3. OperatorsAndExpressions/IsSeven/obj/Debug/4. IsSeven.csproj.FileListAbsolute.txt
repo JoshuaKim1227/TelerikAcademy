@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\bin\Debug\IsSeven.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\bin\Debug\IsSeven.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\bin\Debug\IsSeven.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\obj\Debug\4. IsSeven.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\obj\Debug\IsSeven.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\3. OperatorsAndExpressions\IsSeven\obj\Debug\IsSeven.pdb

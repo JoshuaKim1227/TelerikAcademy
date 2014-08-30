@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.pdb
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.exe
+D:\Media\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\8. StringsAndTextProcessing\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.pdb

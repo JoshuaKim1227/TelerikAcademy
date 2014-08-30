@@ -1,0 +1,2 @@
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\5. MatrixAreaInFile\obj\Debug\_5.MatrixAreaInFile.pdb

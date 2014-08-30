@@ -1,0 +1,7 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\6. MaximalSum\bin\Debug\_6.MaximalSum.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\6. MaximalSum\bin\Debug\_6.MaximalSum.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\6. MaximalSum\obj\Debug\6. MaximalSum.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\6. MaximalSum\obj\Debug\_6.MaximalSum.pdb

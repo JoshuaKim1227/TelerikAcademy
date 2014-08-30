@@ -1,0 +1,6 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\bin\Debug\DateTimePrint.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\bin\Debug\DateTimePrint.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\bin\Debug\DateTimePrint.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\obj\Debug\DateTimePrint.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\obj\Debug\DateTimePrint.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\DateTimePrint\obj\Debug\DateTimePrint.pdb

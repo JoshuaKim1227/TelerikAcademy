@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\SequenceNumbers\bin\Debug\SequenceNumbers.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\SequenceNumbers\bin\Debug\SequenceNumbers.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\SequenceNumbers\bin\Debug\SequenceNumbers.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\SequenceNumbers\obj\Debug\SequenceNumbers.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\SequenceNumbers\obj\Debug\SequenceNumbers.pdb

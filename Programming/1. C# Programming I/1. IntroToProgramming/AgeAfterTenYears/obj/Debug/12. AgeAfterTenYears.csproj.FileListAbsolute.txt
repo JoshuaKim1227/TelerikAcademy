@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\1. IntroToProgramming\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

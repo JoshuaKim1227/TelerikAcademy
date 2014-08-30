@@ -1,0 +1,5 @@
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\NumbersPrinter\bin\Debug\NumbersPrinter.exe.config
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\NumbersPrinter\bin\Debug\NumbersPrinter.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\NumbersPrinter\bin\Debug\NumbersPrinter.pdb
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\NumbersPrinter\obj\Debug\NumbersPrinter.exe
+D:\Media\Development\Telerik Academy\CSharp Programming\4. ConsoleInputOutput\NumbersPrinter\obj\Debug\NumbersPrinter.pdb

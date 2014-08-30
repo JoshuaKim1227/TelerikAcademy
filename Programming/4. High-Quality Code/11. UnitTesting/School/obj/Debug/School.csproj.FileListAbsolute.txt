@@ -1,0 +1,5 @@
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\11. UnitTesting\School\bin\Debug\School.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\11. UnitTesting\School\bin\Debug\School.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\11. UnitTesting\School\obj\Debug\School.dll
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\11. UnitTesting\School\obj\Debug\School.pdb
+D:\Development\Telerik Academy\Programming\4. High-Quality Code\11. UnitTesting\School\obj\Debug\School.csprojResolveAssemblyReference.cache

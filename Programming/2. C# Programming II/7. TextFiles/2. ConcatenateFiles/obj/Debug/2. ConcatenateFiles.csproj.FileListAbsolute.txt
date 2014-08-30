@@ -1,0 +1,9 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\bin\Debug\_2.ConcatenateFiles.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\bin\Debug\_2.ConcatenateFiles.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\obj\Debug\_2.ConcatenateFiles.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\obj\Debug\_2.ConcatenateFiles.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\bin\Debug\_2.ConcatenateFiles.exe.CodeAnalysisLog.xml
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\bin\Debug\_2.ConcatenateFiles.exe.lastcodeanalysissucceeded
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming II\7. TextFiles\2. ConcatenateFiles\obj\Debug\2. ConcatenateFiles.csprojResolveAssemblyReference.cache
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\2. ConcatenateFiles\obj\Debug\_2.ConcatenateFiles.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\7. TextFiles\2. ConcatenateFiles\obj\Debug\_2.ConcatenateFiles.pdb

@@ -1,0 +1,8 @@
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\bin\Debug\_3.ArrayCompareLex.exe.config
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\bin\Debug\_3.ArrayCompareLex.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\bin\Debug\_3.ArrayCompareLex.pdb
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\obj\Debug\3. ArrayCompareLex.csprojResolveAssemblyReference.cache
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\obj\Debug\_3.ArrayCompareLex.exe
+D:\Media\Development\Telerik Academy\Programming\CSharp Programming (Part II)\1. Arrays\3. ArrayCompareLex\obj\Debug\_3.ArrayCompareLex.pdb
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\3. ArrayCompareLex\obj\Debug\_3.ArrayCompareLex.exe
+D:\Development\Telerik Academy\Programming\C# Programming II\1. Arrays\3. ArrayCompareLex\obj\Debug\_3.ArrayCompareLex.pdb
